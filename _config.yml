@@ -103,13 +103,15 @@ navbar:
     child:
     - title: Anne Pisor # Child label		
       url  : /anne # child url	
-#    - title: # Child label		
-#      url  : # child url	
-  #    - title: Team members
-  #      url: /team
-  #    - title: Join us!
-  #      url: /join
-  # - title: Publications and CVs
+    - title: # Child label		
+      url  : # child url	
+    - title: Team members
+      url: /team
+      title: Collaborators
+      url: /collaborators
+    - title: Join us!
+      url: /join
+  - title: Publications and CVs
   # child:
   #     - title: Publications
   #     url: /pubs
