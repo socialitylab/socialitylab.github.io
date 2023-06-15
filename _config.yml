@@ -46,7 +46,7 @@ analytics_id            :
 # - google custom search engine https://cse.google.es/ 
 search:
   provider              : lunr #Select a provider for enable search: lunr, algolia, google
-  label                 :  Seach our site #default ["Search"] Text on navbar when search is enabled 
+  label                 :  Search our site #default ["Search"] Text on navbar when search is enabled 
   landing_page          :  #default ["/search"] Link on navbar 
   lunr_maxwords         :  #default [30] lunr only - May slow down your site build
   algolia_logo          :  true #Displays algolia logo. Should be set to true if you are on a community plan, otherwise false.  
@@ -100,17 +100,33 @@ navbar:
   - title   : Projects # Label
     url     : /projects/ # url	
   - title   : Team
-    url     : /team
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
+  child:
+      - title: Anne Pisor
+        url: /anne
+      - title: Team members
+        url: /team
+      - title: Join us!
+        url: /join
+   - title: Publications and CVs
+   child:
+       - title: Publications
+       url: /pubs
+       - title: CVs
+       url: /cv
+   - title: Media
+   url: /media
+   - title: Resources
+   url: /resources
+#  - title   : Extras
+#    child   :
+#      - title : Tags
+#        url   : /tags
+#      - title : Categories
+#        url   : /categories
+#      - title : Archive
+#        url   : /archive
+#      - title : Current skin
+#        url   : /current-skin
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
