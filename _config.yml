@@ -46,7 +46,7 @@ analytics_id            :
 # - google custom search engine https://cse.google.es/ 
 search:
   provider              : lunr #Select a provider for enable search: lunr, algolia, google
-  label                 :  Join our lab #default ["Search"] Text on navbar when search is enabled 
+  label                 :  Seach our site #default ["Search"] Text on navbar when search is enabled 
   landing_page          :  #default ["/search"] Link on navbar 
   lunr_maxwords         :  #default [30] lunr only - May slow down your site build
   algolia_logo          :  true #Displays algolia logo. Should be set to true if you are on a community plan, otherwise false.  
@@ -120,7 +120,7 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
+    - label : HSL on Twitter # Label
       icon  : fab fa-twitter-square # Fontawesome 5 icon
       url   : https://www.twitter.com/SocialityLab # A link or email: https://twitter.com/jack, mail@example.com
 #    - label: "RSS"
@@ -136,10 +136,10 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  skin         :  wandoo # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
-  vars          :    
-    primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+  #vars          :    
+  #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
