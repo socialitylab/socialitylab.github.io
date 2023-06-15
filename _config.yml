@@ -139,14 +139,10 @@ footer:
     - label : HSL on Twitter # Label
       icon  : fab fa-twitter-square # Fontawesome 5 icon
       url   : https://www.twitter.com/SocialityLab # A link or email: https://twitter.com/jack, mail@example.com
-#    - label: "RSS"
-#      icon: "fa fa-rss"
-#      url:  "./atom.xml"
     - label: Land Acknowledgment
       icon: fab fa-mountains
       url: https://wsu.edu/about/land-acknowledgement/
   copyright: # default is © <year> <name> 
-# The Washington State University Pullman campus is located on the homelands of the Nimíipuu (Nez Perce) Tribe and the Palus people. We acknowledge their presence here since time immemorial and recognize their continuing connection to the land, to the water, and to their ancestors.
 
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
