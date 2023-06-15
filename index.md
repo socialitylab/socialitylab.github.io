@@ -5,7 +5,7 @@ header_type: hero
 subtitle: research on human social life for the 21st century
 ---
 
-The Human Sociality Lab (HSL) studies human social life in an effort to tackle big questions and pressing social issues in the 21st century. We focus especially on cultural change, the evolution of the mind, and social support networks.
+The Human Sociality Lab (HSL) studies human social life in an effort to tackle big questions and pressing social issues in the 21st century. We focus especially on culture, like climate change adaptation; the evolution of the mind, like features of our cognition that regulate cooperation; and networks of social support and information transmission.
 
 #Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
