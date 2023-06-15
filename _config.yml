@@ -102,9 +102,7 @@ navbar:
   - title   : Team
     child:
     - title: Anne Pisor # Child label		
-      url  : /anne # child url	
-    - title: # Child label		
-      url  : # child url	
+      url  : /anne # child url
     - title: Team members
       url: /team
       title: Collaborators
