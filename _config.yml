@@ -105,7 +105,7 @@ navbar:
       url  : /anne # child url
     - title: Team members
       url: /team
-      title: Collaborators
+    - title: Collaborators
       url: /collaborators
     - title: Join us!
       url: /join
