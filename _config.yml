@@ -127,7 +127,7 @@ footer:
       icon  : fab fa-twitter-square # Fontawesome 5 icon
       url   : https://www.twitter.com/SocialityLab # A link or email: https://twitter.com/jack, mail@example.com
     - label: Land Acknowledgment
-      icon: fa-duotone fa-mountain-sun
+      icon: fas fa-map-marked-alt
       url: https://wsu.edu/about/land-acknowledgement/
   copyright: # default is © <year> <name> 
 
