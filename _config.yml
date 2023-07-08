@@ -144,14 +144,11 @@ chulapa-skin:
   #vars          :    
   #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
 
-  ---
 # Doesn't work because of the theme adopted above but would be nice!
 
 #layout: minimal
 #header_type: splash
 #header_img: /assets/img/gallery/city-spain-dense-17658.jpg
-
----
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
