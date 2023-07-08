@@ -145,9 +145,11 @@ chulapa-skin:
   #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
 
   ---
-layout: minimal
-header_type: splash
-header_img: /assets/img/gallery/city-spain-dense-17658.jpg
+# Doesn't work because of the theme adopted above but would be nice!
+
+#layout: minimal
+#header_type: splash
+#header_img: /assets/img/gallery/city-spain-dense-17658.jpg
 
 ---
     
