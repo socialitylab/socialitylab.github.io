@@ -143,6 +143,13 @@ chulapa-skin:
   autothemer    :  true # Bool: Use autotheming
   #vars          :    
   #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+
+  ---
+layout: minimal
+header_type: splash
+header_img: /assets/img/gallery/city-spain-dense-17658.jpg
+
+---
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
