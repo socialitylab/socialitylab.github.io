@@ -7,7 +7,7 @@ last_modified_at: 2023-07-09
 tags: [cooperation,intergroup,review]
 project_links:
   - url: https://osf.io/tc7xa/
-    icon: "fa fa-book"
+    #icon: "fa fa-book"
     label: Read the paper
 ---
 
