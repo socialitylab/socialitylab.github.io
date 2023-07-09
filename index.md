@@ -2,6 +2,7 @@
 layout: default
 title: Human Sociality Lab
 header_type: hero
+header_img: /images/palouse.jpg
 subtitle: research on human social life for the 21st century
 ---
 
