@@ -9,14 +9,14 @@ The HSL is committed to collaborative, ethical, inclusive research and to open s
 
 <h1 id="HSL_led">HSL-led projects</h1>
 
-<img src="images/tz_bmu_sign.jpg" alt="Leader with Beach Management Unit sign">
+![Leader with Beach Management Unit sign](/images/tz_bmu_sign.jpg)
 
 ## Long-distance relationships
 
 ### Tanzania Sociality and Fisheries Project (TSFP)
 The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co-directed by HSL PI Dr Anne Pisor and frequent collaborator [Dr Monique Borgerhoff Mulder] (https://anthropology.ucdavis.edu/people/fzborger) is a long-term research project studying the intersection of social relationships and natural resources along the Indian Ocean in the Tanga region of Tanzania. Drawing on theories and methods from diverse disciplines, including evolutionary anthropology, social psychology, and development economics, our goal is to better understand the connection between people’s relationships and their use of their natural resources, and in doing so, support communities in their efforts to improve their lives and protect their environment. We work closely with local NGOs in the area, such as Mwambao Coastal Community Network and Blue Ventures, and community members to develop research questions that will support and benefit the communities.
 
-![Branching](images/tz_bmu_sign.jpg)
+![Branching](https://github.com/socialitylab/socialitylab.github.io/tree/master/images/tz_bmu_sign.jpg)
 
 ## ClimTo
 [ClimTo](https://climto.org) is a smartphone app that crowdsources climate responses, enabling individuals to generate candidate climate responses, try others’ responses, and share what works with other people. By emphasizing goal setting and leveraging gamification, ClimTo encourages daily use, supporting preparation for climate impacts before they happen.
