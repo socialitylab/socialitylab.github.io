@@ -120,8 +120,8 @@ navbar:
     url: /media
   - title: Resources
     url: /resources
-  - title   : Blog # Label
-    url     : /blog/ # url
+#  - title   : Blog # Label
+#    url     : /blog/ # url
 
 #Social links to be placed on your site footer
 footer:
