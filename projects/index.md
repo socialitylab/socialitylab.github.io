@@ -7,7 +7,7 @@ subtitle: Our latest
 
 The HSL is committed to collaborative, ethical, inclusive research and to open science practices. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
-Here we overview projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [Media](/media/).
+Here we overview current projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [Media](/media/).
 
 * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
 {:toc}
@@ -23,7 +23,7 @@ The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co
 <img src="/images/climto_logo.png" alt="ClimTo logo" width="200"/>
 
 # Climate change adaptation
-How humans respond to climate change is inherently a cultural process, affected by innovation, modification, retention, and transmission ((Pisor et al. 2023)[https://osf.io/at4wr/]). Even the way we construct infrastructure is a product of innovations and modifications we've kept and trained others in over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ((Pisor et al. 2022)[https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/]).
+How humans respond to climate change is inherently a cultural process, affected by innovation, modification, retention, and transmission ([Pisor et al. 2023](https://osf.io/at4wr/)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and trained others in over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)).
 
 ## ClimTo
 [ClimTo](https://climto.org) is a smartphone app that crowdsources climate responses, enabling individuals to generate candidate climate responses, try others’ responses, and share what works with other people. By emphasizing goal setting and leveraging gamification, ClimTo encourages daily use, supporting preparation for climate impacts before they happen.
