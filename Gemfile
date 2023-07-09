@@ -6,6 +6,7 @@ group :jekyll_plugins do
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
+  gem 'kramdown', '~> 2.3'
 end
 
 #gem 'jekyll-paginate-multiple', github: 'scandio/jekyll-paginate-multiple'
