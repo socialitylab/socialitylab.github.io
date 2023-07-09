@@ -178,11 +178,11 @@ permalink           : /:year:month:day_:title/
 defaults:
   -
     scope:
-      path: ""
+      path: "pages"
     values:
       layout: "minimal" #default
       header_type: "splash" #base
-      header_img: /assets/img/gallery/city-spain-dense-17658.jpg
+      header_img: /images/wordcloud_230708.png
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
