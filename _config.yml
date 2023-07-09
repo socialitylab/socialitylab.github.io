@@ -157,17 +157,17 @@ header_img: /assets/img/gallery/city-spain-dense-17658.jpg
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/ AND here https://github.com/scandio/jekyll-paginate-multiple
 # Couldn't make multiple work without GitBash or similar
-#paginate_multiple:
-#  - paginate: 10
-#    paginate_path: '/projects/page:num/'
-#    sub_dir: '/projects'
-#  - paginate: 10
-#    paginate_path: '/team/page:num/'
-#    sub_dir: '/team'
+paginate_multiple:
+  - paginate: 10
+    paginate_path: '/pubs/page:num/'
+    sub_dir: '/pubs'
+  - paginate: 10
+    paginate_path: '/media/page:num/'
+    sub_dir: '/media'
     
-paginate: 10
-paginate_path: "/pubs/page:num/"
-paginator_maxnum: 10  #default[3] Custom: max of number to be displayed on the paginator
+#paginate: 10
+#paginate_path: "/pubs/page:num/"
+#paginator_maxnum: 10  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
