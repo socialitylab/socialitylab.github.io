@@ -7,5 +7,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
   gem 'jekyll-paginate'
-  gem 'jekyll-paginate-multiple'
 end
+
+gem 'jekyll-paginate-multiple', github: 'scandio/jekyll-paginate-multiple'
