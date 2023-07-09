@@ -4,7 +4,6 @@ header_img : "images/tz_seaweed.jpg"
 title: Projects
 subtitle: Our latest projects
 ---
-{{ page.content | markdownify | liquify }}
 
 The HSL is committed to collaborative, ethical, inclusive research and to open science practices. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
