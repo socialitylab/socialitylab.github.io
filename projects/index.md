@@ -35,7 +35,7 @@ Understanding what adaptations work under what conditions requires understanding
 
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
 
-## Cooperative relationships with non-kin
+# Cooperative relationships with non-kin
 
-### Chosen kin and cooperative childrearing
+## Chosen kin and cooperative childrearing
 Humans engage in cooperative childrearing -- individuals other than parents often are important to raising children -- and in humans, even non-kin are sometimes involved. What are the benefits to chosen kin of investing in children who are not their own? How do children benefit? This is the subject of PhD student Ollie Shannon's ongoing PhD research, which focuses on cooperative childrearing among chosen family in Queer and poly communities in the Western US.
