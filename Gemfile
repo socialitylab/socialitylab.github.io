@@ -8,4 +8,4 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
 end
 
-gem 'jekyll-paginate-multiple', github: 'scandio/jekyll-paginate-multiple'
+#gem 'jekyll-paginate-multiple', github: 'scandio/jekyll-paginate-multiple'
