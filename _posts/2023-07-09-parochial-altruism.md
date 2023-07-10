@@ -1,7 +1,7 @@
 ---
 title: Parochial altruism
 subtitle: What it is and why it varies
-header_type: "post"
+header_type: "splash"
 header_img : "/images/flow.png"
 last_modified_at: 2023-07-09
 tags: [cooperation, intergroup, review]
