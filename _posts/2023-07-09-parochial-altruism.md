@@ -1,10 +1,10 @@
 ---
-header_type: "post"
-header_img : "/images/flow.png"
 title: Parochial altruism
 subtitle: What it is and why it varies
+header_type: "post"
+header_img : "/images/flow.png"
 last_modified_at: 2023-07-09
-tags: [cooperation,intergroup,review]
+tags: [cooperation, intergroup, review]
 project_links:
   - url: https://osf.io/tc7xa/
     #icon: "fa fa-book"
