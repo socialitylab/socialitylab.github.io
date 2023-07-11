@@ -102,8 +102,6 @@ navbar:
     url     : /projects/ # url	
   - title   : Team
     child:
-    - title: Anne Pisor # Child label		
-      url  : /anne # child url
     - title: Team members
       url: /team
     - title: Alumni
