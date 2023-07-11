@@ -19,12 +19,15 @@ Anne has backgrounds in evolutionary and cultural anthropology, social psycholog
 Anne is an assistant professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/).
 <br />
 <br />
+<br />
 
 # Eleonora Zanetti; PhD student
 <br />
 <br />
+<br />
 
 # Evan Leacox; PhD student
+<br />
 <br />
 <br />
 
@@ -33,10 +36,12 @@ Anne is an assistant professor of anthropology at WSU, where she recently receiv
 Hope is interested in the intersection of health care and anthropology, especially applied evolutionary anthropology. She graduated from WSU with a BA in Human Biology in 2023. Hope collaborates with Anne on research related to climate change adaptation and works full time as a research assistant at Principle Research Solutions.
 <br />
 <br />
+<br />
 
 <img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
 # Dr Kris Smith; postdoc
 [Kris](https://www.kristophermsmith.com/) studies long distance relationships and natural resource management in Tanzania, where directs the [Tanzania Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/). He received his PhD in Psychology from the University of Pennsylvania in 2019, where he also completed a two-year postdoc in the Social Behavioral Science Initiative. Broadly, his research interests are on the evolutionary and cultural origins of human cooperation and morality. He also works with the Hadza hunter-gatherers of Tanzania, studying how they maintain group cooperation and what traits they prefer in potential social partners.
+<br />
 <br />
 <br />
 
