@@ -22,6 +22,7 @@ The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co
 
 <br />
 <br />
+<br />
 <img src="/images/climto_logo.png" alt="ClimTo logo" width="200"/>
 
 # Climate change adaptation
@@ -35,6 +36,7 @@ ClimTo is a startup founded by PI Anne Pisor in collaboration with [Washington S
 ## Characterizing climate variability
 Understanding what adaptations work under what conditions requires understanding the nitty gritty of "conditions" a bit better. With collaborators in the earth sciences, PI Anne Pisor is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, then modeling these predictions with empirical data.
 
+<br />
 <br />
 <br />
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
