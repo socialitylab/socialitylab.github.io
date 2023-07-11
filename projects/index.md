@@ -20,6 +20,8 @@ Long-distance relationships - social connections spanning space - have been a ce
 ## Tanzania Sociality and Fisheries Project (TSFP)
 The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co-directed by HSL PI Dr Anne Pisor and frequent collaborator [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger) is a long-term research project studying the intersection of social relationships and natural resources along the Indian Ocean in the Tanga region of Tanzania. Drawing on theories and methods from diverse disciplines, including evolutionary anthropology, social psychology, and development economics, our goal is to better understand the connection between people’s relationships and their use of their natural resources, and in doing so, support communities in their efforts to improve their lives and protect their environment. We work closely with local NGOs in the area, such as [Mwambao Coastal Community Network](https://mwambao.or.tz/) and [Blue Ventures](https://blueventures.org/), and community members to develop research questions that will support and benefit the communities.  
 
+<br />
+<br />
 <img src="/images/climto_logo.png" alt="ClimTo logo" width="200"/>
 
 # Climate change adaptation
@@ -33,6 +35,8 @@ ClimTo is a startup founded by PI Anne Pisor in collaboration with [Washington S
 ## Characterizing climate variability
 Understanding what adaptations work under what conditions requires understanding the nitty gritty of "conditions" a bit better. With collaborators in the earth sciences, PI Anne Pisor is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, then modeling these predictions with empirical data.
 
+<br />
+<br />
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
 
 # Cooperative relationships with non-kin
