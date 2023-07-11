@@ -1,6 +1,6 @@
 ---
-title: Parochial altruism
-subtitle: What it is and why it varies
+title: Parochial altruism - What it is and why it varies
+subtitle: Evolution & Human Behavior
 header_type: "hero"
 header_img : "/images/flow.png"
 last_modified_at: 2023-07-09
