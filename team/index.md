@@ -10,7 +10,7 @@ The HSL is committed to training students and postdocs for positions inside and 
 * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
 {:toc}
 
-<img src="images/Pisor_early_career_small.png" alt="Anne Pisor" width="400"/>
+<img src="/images/Pisor_early_career_small.png" alt="Anne Pisor" width="400"/>
 
 # Anne Pisor, PhD; HSL principal investigator
 Anne combines basic research and applied work to study social relationships that span distance, climate change adaptation, and collective action for natural resource management. With collaborators she also studies moral psychology and intergroup relationships. You can [watch a talk of hers](https://www.youtube.com/watch?v=vCvbD8xcA6g&feature=youtu.be) for a taste of her academic approach. You can check out her startup [ClimTo](https://www.climto.org) for a taste of her nonprofit and industry collaborations.
