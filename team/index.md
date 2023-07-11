@@ -23,7 +23,11 @@ Anne is an assistant professor of anthropology at WSU, where she recently receiv
 
 # Evan Leacox, MA; PhD student
 
+<img src="/images/hope_jared.jpg" alt="Hope Jared" width="400"/>
+
 # Hope Jared, BA; research assistant
+
+Hope is interested in the intersection of health care and anthropology, especially applied evolutionary anthropology. She's working with Anne on research related to climate change adaptation.
 
 # Kris Smith, PhD; postdoc
 [Kris](https://www.kristophermsmith.com/) studies long distance relationships and natural resource management in Tanzania. He received his PhD in Psychology from the University of Pennsylvania in 2019, where he also completed a two-year postdoc in the Social Behavioral Science Initiative. Broadly, his research interests are on the evolutionary and cultural origins of human cooperation and morality. He also works with the Hadza hunter-gatherers of Tanzania, studying how they maintain group cooperation and what traits they prefer in potential social partners.
