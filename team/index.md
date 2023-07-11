@@ -21,7 +21,10 @@ Anne is an assistant professor of anthropology at WSU, where she recently receiv
 # Eleonora Zanetti; PhD student
 
 # Evan Leacox; PhD student
-
+<br />
+<br />
+<br />
+<br />
 <img src="/images/hope_jared.jpg" alt="Hope Jared" width="200"/>
 # Hope Jared; research assistant
 Hope is interested in the intersection of health care and anthropology, especially applied evolutionary anthropology. She graduated from WSU with a BA in Human Biology in 2023. Hope collaborates with Anne on research related to climate change adaptation and works full time as a research assistant at Principle Research Solutions. 
