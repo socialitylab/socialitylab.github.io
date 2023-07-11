@@ -1,6 +1,6 @@
 ---
 title: Parochial altruism - What it is and why it varies
-subtitle: **Pisor, A.C.**, and Ross, C.T. (in press)
+subtitle: Pisor, A.C., and Ross, C.T. (in press)
 header_type: "hero"
 header_img : "/images/flow.png"
 last_modified_at: 2023-07-09
