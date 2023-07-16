@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: indexcategory
 title: "Media"
 subtitle: "Our recent media coverage"
 include_collection: media
