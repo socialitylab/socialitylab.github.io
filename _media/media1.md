@@ -1,10 +1,7 @@
 ---
-name: New paper
-outlet: New outlet
-title: Markdown cheatsheet
-subtitle: The basic syntax of your page
-excerpt: A demo page checking Markdown
-categories: [tutorial]
-tags: [starter,syntax,markdown]
+title: How researchers prepare for fieldwork
+outlet: The Dissenter
+categories: [podcasts]
+tags: [anthropology,overview,Anne]
 ---
-media thing
+[Listen to Anne discuss how researchers can prepare for fieldwork]<https://open.spotify.com/episode/5QgWYCw5Vwi2CGiNef4Zsq>, in their home country or abroad.
