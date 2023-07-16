@@ -9,8 +9,9 @@ og_image: /assets/img/site/banner-blog.png
 {% for article in site.media %}
   <h2>
     <a href="{{ article.url }}">
-      {{ article.title }} - {{ article.outlet }}
+      {{ article.title }}
     </a>
   </h2>
-  <p>{{ article.content | markdownify }}</p>
+   <p>{{ article.outlet }}</p>
+  <!-- <p>{{ article.content | markdownify }}</p> -->
 {% endfor %}
