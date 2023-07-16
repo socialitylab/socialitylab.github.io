@@ -1,6 +1,7 @@
 ---
 title: How researchers prepare for fieldwork
 outlet: The Dissenter
+member_name: Anne
 categories: [podcasts]
 tags: [anthropology,overview,Anne]
 ---
