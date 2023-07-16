@@ -159,7 +159,6 @@ chulapa-skin:
 #    paginate_path: '/media/page:num/'
 #    sub_dir: '/media'
 
-# This pagination works but I turned it off to try collections instead
 paginate: 10
 paginate_path: "/pubs/page:num/"
 paginator_maxnum: 10  #default[3] Custom: max of number to be displayed on the paginator
