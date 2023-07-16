@@ -11,7 +11,8 @@ The HSL is committed to training students and postdocs for positions inside and 
 {:toc}
 
 <img src="/images/Pisor_early_career_small.png" alt="Anne Pisor" width="200"/>
-# Dr Anne Pisor; principal investigator
+<center> # Dr Anne Pisor; principal investigator </center>
+_Pisor is pronounced "pie-sore"_
 Anne combines basic research and applied work to study social relationships that span distance, climate change adaptation, and collective action for natural resource management. With collaborators she also studies moral psychology and intergroup relationships. You can [watch a talk of hers](https://www.youtube.com/watch?v=vCvbD8xcA6g&feature=youtu.be) for a taste of her academic approach. You can check out her startup [ClimTo](https://www.climto.org) for a taste of her nonprofit and industry collaborations.
 
 Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the Western US (2022-present). She co-directs the [Tanzania Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) with postdoc [Dr Kris Smith](https://www.kristophermsmith.com/).
