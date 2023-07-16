@@ -5,6 +5,7 @@ subtitle: 'Recent media coverage'
 excerpt: Media
 og_image: /assets/img/site/banner-blog.png
 ---
+{%- include components/headers.html headertype= page.header_type imghero=page.header_img -%}
 {% for article in site.media %}
   <h2>
     <a href="{{ article.url }}">
