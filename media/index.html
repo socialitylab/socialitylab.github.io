@@ -12,6 +12,6 @@ og_image: /assets/img/site/banner-blog.png
       {{ article.title }}
     </a>
   </h3>
-   <h4>{{ article.member_name }}</h4>on<h4>{{ article.outlet }}</h4>
+   <p>{{ article.member_name }}, {{ article.outlet }}, {{ article.category }}, {{ article.tags }}</p>
   <!-- <p>{{ article.content | markdownify }}</p> -->
 {% endfor %}
