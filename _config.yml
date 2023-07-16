@@ -160,15 +160,15 @@ chulapa-skin:
 #    sub_dir: '/media'
 
 # This pagination works but I turned it off to try collections instead
-#paginate: 10
-#paginate_path: "/pubs/page:num/"
-#paginator_maxnum: 10  #default[3] Custom: max of number to be displayed on the paginator
+paginate: 10
+paginate_path: "/pubs/page:num/"
+paginator_maxnum: 10  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
-  pubs:
-    output: true
-    permalink: /pubs/:path
+#  pubs:
+#    output: true
+#    permalink: /pubs/:path
   media:
     output: true
     permalink: /media/:path
