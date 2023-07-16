@@ -9,7 +9,7 @@ og_image: /assets/img/site/banner-blog.png
 {% for article in site.media %}
   <h2>
     <a href="{{ article.url }}">
-      {{ article.name }} - {{ article.outlet }}
+      {{ article.title }} - {{ article.outlet }}
     </a>
   </h2>
   <p>{{ article.content | markdownify }}</p>
