@@ -20,4 +20,4 @@ The HSL accepts PhD students interested in the scientific study of human social 
 * Diversifying evolutionary approaches to studying human behavior and social life
 * Cooperation, including (but not limited to) collective action, common-pool resource problems, partner choice, and bargaining
 
-**International and/or undocumented students are welcome to apply.**
+### International and/or undocumented students are welcome to apply
