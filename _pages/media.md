@@ -1,3 +1,4 @@
+---
 layout: indexcategory
 title: "Media"
 include_collection: media
