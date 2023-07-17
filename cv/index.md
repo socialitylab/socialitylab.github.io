@@ -18,4 +18,3 @@ subtitle: Our curriculum vitaes
     <a href="{{ https://drive.google.com/uc?id=142UbieWK1k64QD0OrM4j9_MA7wlvwSbz }}">Kris's CV
     </a>
 </h3>
-### [Kris's CV](https://drive.google.com/uc?id=142UbieWK1k64QD0OrM4j9_MA7wlvwSbz)
