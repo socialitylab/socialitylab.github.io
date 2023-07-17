@@ -10,7 +10,12 @@ subtitle: Our curriculum vitaes
     <a href="{{ https://www.dropbox.com/s/6t0x0p191n1ei6t/Pisor_CV.pdf }}">Anne's CV
     </a>
 </h3>
-
-### [Anne's CV](https://www.dropbox.com/s/6t0x0p191n1ei6t/Pisor_CV.pdf)
-
+<br />
+<br />
+<br />
+<img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
+<h3 style="text-align: center;">
+    <a href="{{ https://drive.google.com/uc?id=142UbieWK1k64QD0OrM4j9_MA7wlvwSbz }}">Kris's CV
+    </a>
+</h3>
 ### [Kris's CV](https://drive.google.com/uc?id=142UbieWK1k64QD0OrM4j9_MA7wlvwSbz)
