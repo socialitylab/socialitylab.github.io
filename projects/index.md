@@ -1,6 +1,6 @@
 ---
 header_type: "hero"
-header_img : "images/tz_seaweed.jpg"
+header_img: /images/palouse.jpg
 title: Projects
 subtitle: Our latest
 ---
