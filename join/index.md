@@ -2,7 +2,7 @@
 layout: default
 title: Join the HSL!
 header_type: hero
-header_img: "images/hbes_2023.jpg"
+header_img: /images/palouse.jpg
 subtitle: PhD in scientific anthropology
 ---
 
