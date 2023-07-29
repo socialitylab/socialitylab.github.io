@@ -6,8 +6,8 @@ header_img: /images/palouse.jpg
 subtitle: Past members of the HSL
 ---
 
-* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
-{:toc}
+[//]: # ( * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.)
+[//]: # ({:toc})
 
 # Eric Hubbard, MA
 Eric completed his MA in Evolutionary Anthropology in 2022. He also has a MA in International Security Studies from the University of Arizona and a BA in Anthropology with a minor in Linguistics at Missouri State University. While at WSU, Eric studied how non-kin alloparents may benefit children. He found that godparents do not affect child educational outcomes for the Moseten and Interculturales, but he does have suggestions for how we can better understand the impact of godparents on child outcomes in the future. Eric is now Research Director at Nupoint Marketing.
