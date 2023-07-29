@@ -9,8 +9,8 @@ The HSL is committed to collaborative, ethical, inclusive research and to open s
 
 Here we overview current projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [Media](/media/).
 
-* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
-{:toc}
+<--! * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
+<--! {:toc} -->
 
 <img src="/images/tz_bmu_sign.jpg" alt="Leader with Beach Management Unit sign" width="400"/>
 
