@@ -140,8 +140,9 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin         :  wandoo # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
-  #vars          :    
-  #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+  vars          :
+   light     :  FFFFFF
+   gray-300  : FFFFFF
 
 # Doesn't work because of the theme adopted above but would be nice!
     
