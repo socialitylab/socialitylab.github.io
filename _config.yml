@@ -140,7 +140,16 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin         :  sunset # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
-  #vars:
+  vars  :
+    primary: "#2F414A"
+    secondary: "#F47B53"
+    success: "#420084"
+    danger: "#f2460d"
+    info: "#7ebcfa"
+    warning: "#ff9933"
+    light: "#FFFFFF"
+    dark: "#000633"
+    headings-font-family: Voltaire
   
 # Doesn't work because of the theme adopted above but would be nice!
     
