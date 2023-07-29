@@ -140,10 +140,8 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin         :  wandoo # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
-  vars:
-    light     :  FFFFFF
-    gray-300  : FFFFFF
-
+  #vars:
+  
 # Doesn't work because of the theme adopted above but would be nice!
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
