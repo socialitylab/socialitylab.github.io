@@ -150,6 +150,7 @@ chulapa-skin:
     light: "#FFFFFF"
     dark: "#000633"
     headings-font-family: Voltaire
+    font-family-base: Nunito
   
 # Doesn't work because of the theme adopted above but would be nice!
     
