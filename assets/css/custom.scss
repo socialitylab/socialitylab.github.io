@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;900&family=Comfortaa:wght@400;500;600;900&display=swap');
 $font-family-base:Nunito !default;
 $headings-font-family:Comfortaa !default;
+$border-radius-sketchy: 255px 25px 225px 25px/25px 225px 25px 255px;
 
 $primary:#FF304F !default;
 $secondary:#CACACA !default;
@@ -14,3 +15,21 @@ $warning:#0DE2EA !default;
 $light:#ececec !default;
 $dark:#222222 !default;
 $gray-300:#e0e0e0 !default;
+
+$border-radius-sketchy: 255px 25px 225px 25px/25px 225px 25px 255px;
+$navbar-chulapa-bg-color: $white;
+
+.navbar-chulapa .dropdown-menu{
+    border-style: solid !important;
+}
+
+.navbar-chulapa-fab {
+
+.nav-link{
+
+border-radius: $border-radius-sketchy;
+}
+   .dropdown-menu{
+border-radius: 15px 5px 5px 25px/5px 25px 25px 5px !important;
+}
+}
