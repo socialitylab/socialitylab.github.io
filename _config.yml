@@ -140,9 +140,20 @@ chulapa-skin:
   highlight     :  # default["default"]
   skin         :  gitdev-dark # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
-  #vars  :
-    #primary: "#2F414A"
-  
+  vars  :
+    primary: "#2F414A"
+    font-family-base: "Nunito"
+    headings-font-family: "Comfortaa"
+    primary: "#FF304F"
+    secondary: "#CACACA"
+    success: "#015668"
+    danger: "#06648C"
+    info: "#0F81C7"
+    warning: "#0DE2EA"
+    light: "#ececec"
+    dark: "#222222"
+    gray-300: "#e0e0e0"
+    
 # Doesn't work because of the theme adopted above but would be nice!
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
