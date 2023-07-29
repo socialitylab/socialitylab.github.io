@@ -138,10 +138,10 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  wandoo # Optional predefined skins
+  skin         :  gitdev-dark # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
-  vars  :
-    primary: "#2F414A"
+  #vars  :
+    #primary: "#2F414A"
   
 # Doesn't work because of the theme adopted above but would be nice!
     
