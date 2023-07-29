@@ -139,7 +139,7 @@ googlefonts:
 chulapa-skin: 
   highlight     :  # default["default"]
   skin         :  wandoo # Optional predefined skins
-  autothemer    :  # Bool: Use autotheming
+  autothemer    :  true # Bool: Use autotheming
   vars  :
     primary: "#2F414A"
   
