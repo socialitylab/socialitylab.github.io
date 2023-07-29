@@ -138,7 +138,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  wandoo # Optional predefined skins
+  skin         :  sunset # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
   #vars:
   
