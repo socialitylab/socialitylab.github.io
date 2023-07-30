@@ -1,5 +1,5 @@
 ---
-title: Friends near and afar, through thick and thin: Comparing contingency of help between close- and long-distance friends in Tanzanian fishing villages
+title: "Friends near and afar, through thick and thin: Comparing contingency of help between close- and long-distance friends in Tanzanian fishing villages"
 subtitle: Smith, K.M, Pisor, A.C., Aron, B., Bernard, K., Fimbo, P., Kimesera, R., Borgerhoff Mulder, M. (in press)
 header_type: "hero"
 header_img : "/images/close-vs-long.jpg"
