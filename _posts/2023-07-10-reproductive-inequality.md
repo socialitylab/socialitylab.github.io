@@ -3,7 +3,6 @@ title: Reproductive inequality in humans and other mammals
 subtitle: Ross, C.T., Hooper, P.L., Smith, J.E., ...Pisor, A., ... Borgerhoff Mulder, M. (2023)
 header_type: "hero"
 header_img : "/images/reproductive_inequality.jpg"
-last_modified_at: 2023-07-09
 tags: [cross-cultural, demography, cross-species]
 project_links:
   - url: https://www.pnas.org/doi/10.1073/pnas.2220124120
