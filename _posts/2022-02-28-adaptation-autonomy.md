@@ -13,4 +13,4 @@ project_links:
 
 Communities want to determine their own climate change adaptation strategies, and scientists and decision-makers should listen to them — both the equity and efficacy of climate change adaptation depend on it. We outline key lessons researchers and development actors can take to support communities and learn from them.
 
-<--! last_modified_at: 2023-07-09 -->
+<!-- last_modified_at: 2023-07-09 -->
