@@ -3,7 +3,7 @@ title: Friends near and afar, through thick and thin: Comparing contingency of h
 subtitle: Smith, K.M, Pisor, A.C., Aron, B., Bernard, K., Fimbo, P., Kimesera, R., Borgerhoff Mulder, M. (in press)
 header_type: "hero"
 header_img : "/images/close-vs-long.jpg"
-tags: [cooperation,tanzania,fieldwork,long-distance-relationships,fisheries]
+tags: [cooperation, tanzania, fieldwork, long-distance-relationships, fisheries]
 project_links:
   - url: https://osf.io/5bwca/
     icon: "fa fa-book"
