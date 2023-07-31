@@ -14,7 +14,7 @@ The HSL is committed to training students and postdocs for positions inside and 
 <h1 style="text-align: center;">Dr Anne Pisor; principal investigator</h1>
 Anne Pisor ("pie-sir") combines basic research and applied work to study social relationships that span distance, climate change adaptation, and collective action for natural resource management. With collaborators she also studies moral psychology and intergroup relationships. You can [watch a talk of hers](https://www.youtube.com/watch?v=vCvbD8xcA6g&feature=youtu.be) for a taste of her academic approach. You can check out her startup [ClimTo](https://www.climto.org) for a taste of her nonprofit and industry collaborations.
 
-Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the Western US (2022-present). She co-directs the [Tanzania Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) with postdoc [Dr Kris Smith](https://www.kristophermsmith.com/).
+Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the Western US (2022-present). She co-directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) with postdoc [Dr Kris Smith](https://www.kristophermsmith.com/) and [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger).
 
 Anne is an assistant professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/).
 <br />
@@ -40,7 +40,7 @@ Hope is interested in the intersection of health care and anthropology, especial
 
 <img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
 <h1 style="text-align: center;">Dr Kris Smith; postdoc</h1>
-[Kris](https://www.kristophermsmith.com/) studies long distance relationships and natural resource management in Tanzania, where directs the [Tanzania Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/). He received his PhD in Psychology from the University of Pennsylvania in 2019, where he also completed a two-year postdoc in the Social Behavioral Science Initiative. Broadly, his research interests are on the evolutionary and cultural origins of human cooperation and morality. He also works with the Hadza hunter-gatherers of Tanzania, studying how they maintain group cooperation and what traits they prefer in potential social partners.
+[Kris](https://www.kristophermsmith.com/) studies long distance relationships and natural resource management in Tanzania, where directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/). He received his PhD in Psychology from the University of Pennsylvania in 2019, where he also completed a two-year postdoc in the Social Behavioral Science Initiative. Broadly, his research interests are on the evolutionary and cultural origins of human cooperation and morality. He also works with the Hadza hunter-gatherers of Tanzania, studying how they maintain group cooperation and what traits they prefer in potential social partners.
 <br />
 <br />
 <br />
