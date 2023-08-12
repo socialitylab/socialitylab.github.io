@@ -1,6 +1,6 @@
 ---
 title: "Climate change adaptation needs a science of culture"
-subtitle: Pisor, A.C. Lansing, J.S., & Magargal, K. (in press)
+subtitle: Pisor, A.C., Lansing, J.S., & Magargal, K. (in press)
 header_type: "hero"
 header_img : "/images/adaptation-science.png"
 tags: [climate-adaptation, review, cross-cultural, policy]
