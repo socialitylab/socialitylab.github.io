@@ -3,7 +3,7 @@ title: "Effective climate-change adaptation means supporting community autonomy"
 subtitle: Pisor, A.C., Basurto, X., Douglass, K.G., Mach, K.J., Ready, E., Tylianakis, J.M., Hazel, A., Kline, M.A., Kramer, K.L., Lansing, J.S., Moritz, M., Smaldino, P.E., Thornton, T.F., Jones, J.H. (2022)
 header_type: "hero"
 header_img : "/images/innovation-transmission.jpg"
-tags: [review, climate adaptation, policy]
+tags: [review, climate-adaptation, policy]
 project_links:
   - url: https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/edit
     icon: "fa fa-book"
