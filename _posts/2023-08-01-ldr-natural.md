@@ -1,5 +1,5 @@
 ---
-title: "The impacts of long-distance relationships on natural resource management"
+title: "The impacts of long-distance relationships on local natural resource management"
 subtitle: Pisor, A.C., Borgerhoff Mulder, M., & Smith, K.M. (in press)
 header_type: "hero"
 header_img : "/images/polycentric.png"
