@@ -16,7 +16,7 @@ Anne Pisor ("pie-sir") combines basic research and applied work to study social 
 
 Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the Western US (2022-present) and is increasingly involved as a collaborator, consultant, and mentor on research projects in East Africa. She co-directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) with postdoc [Dr Kris Smith](https://www.kristophermsmith.com/) and [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger).
 
-Anne is an assistant professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/).
+Anne is an associate professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/).
 <br />
 <br />
 <br />
