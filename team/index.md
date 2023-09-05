@@ -40,7 +40,7 @@ Hope is interested in the intersection of health care and anthropology, especial
 
 <img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
 <h1 style="text-align: center;">Dr Kris Smith; postdoc</h1>
-[Kris](https://www.kristophermsmith.com/) studies long distance relationships and natural resource management in Tanzania, where directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/). He received his PhD in Psychology from the University of Pennsylvania in 2019, where he also completed a two-year postdoc in the Social Behavioral Science Initiative. Broadly, his research interests are on the evolutionary and cultural origins of human cooperation and morality. He also works with the Hadza hunter-gatherers of Tanzania, studying how they maintain group cooperation and what traits they prefer in potential social partners.
+[Kris Smith](https://www.kristophermsmith.com/) is a postdoc in the Human Sociality Lab and director of the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) in Tanzania. He studies how evolution and culture shape cooperative relationships, and how cooperative relationships can help achieve collective action, such as natural resource management. Prior to joining the Human Sociality Lab, Kris received his PhD in Psychology from the University of Pennsylvania in 2019 and stayed on for a two-year postdoctoral fellowship in the Social and Behavioral Science Initiative. During his time at Penn, he conducted field research with Hadza hunter-gatherers in Tanzania, studying how their decisions of whom to cooperate with are changing with increased integration with their neighbors.
 <br />
 <br />
 <br />
