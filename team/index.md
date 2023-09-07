@@ -22,6 +22,9 @@ Anne is an associate professor of anthropology at WSU, where she recently receiv
 <br />
 
 <h1 style="text-align: center;">Eleonora Zanetti; PhD student</h1>
+Eleonora is interested in studying climate change adaptations from a multidisciplinary perspective that overlaps cultural evolution, cultural anthropology and environmental psychology. Using ethnographic and quantitative methods, her focus is on the influence of social context on how candidate climate change adaptations spread through social learning, including who learns from whom, when, what and under which conditions learning leads to behavioural changes at the population level.
+
+She has a research background in digital anthropology (online information spread), ethnography (amongst Italian paganic communities) and non-human primate social learning. She's passionate about and has collaborated in research projects empowering first-generation students' experiences. 
 <br />
 <br />
 <br />
