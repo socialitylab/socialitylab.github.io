@@ -29,7 +29,9 @@ She has a research background in digital anthropology (online information spread
 <br />
 <br />
 
+<img src="/images/evan_leacox.png" alt="Evan Leacox" width="200"/>
 <h1 style="text-align: center;">Evan Leacox; PhD student</h1>
+Evan's interests lie in researching cultural adaptations to climate change - especially behavioral adaptations; their transmission within social networks; and their diffusion across disparate communities through a combination of cultural and evolutionary anthropology and collaborative, transdisciplinary research methods. Evan is particularly interested in how such behaviors and networks are influenced – informed or interrupted - by top-down approaches of donor-driven development interests and how, conversely, locally/culturally lead approaches to climate change related resiliency might better inform the process of developing and implementing global solutions. 
 <br />
 <br />
 <br />
