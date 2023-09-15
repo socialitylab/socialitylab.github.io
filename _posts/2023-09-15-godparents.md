@@ -3,7 +3,7 @@ title: "Non-kin alloparents and child outcomes: Older siblings, but not godparen
 subtitle: Hubbard, E.B., Shannon, O., & Pisor, A.C. (in press)
 header_type: "hero"
 header_img : "/images/godparents.jpg"
-tags: [cooperation, cooperative-childrearing, bolivia]
+tags: [cooperation, cooperative-childrearing, bolivia, fieldwork]
 project_links:
   - url: https://osf.io/6wap9/
     icon: "fa fa-book"
