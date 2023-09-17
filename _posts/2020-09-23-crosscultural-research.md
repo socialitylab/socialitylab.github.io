@@ -1,6 +1,6 @@
 ---
-title: Navigating cross-cultural research: Methodological and ethical considerations
-subtitle: Broesch, T., Crittenden, A.N., Beheim, B.A., Blackwell, A.D., Bunce, J.A., Colleran, H., Hagel, K., Kline, M., McElreath, R., Nelson, R.G., Pisor, A.C., et al. (2020)
+title: "Navigating cross-cultural research: Methodological and ethical considerations"
+subtitle: "Broesch, T., Crittenden, A.N., Beheim, B.A., Blackwell, A.D., Bunce, J.A., Colleran, H., Hagel, K., Kline, M., McElreath, R., Nelson, R.G., Pisor, A.C., et al. (2020)"
 header_type: "hero"
 header_img : "/images/sarai.jpg"
 tags: [cross-cultural, toolkit, review, bolivia]
