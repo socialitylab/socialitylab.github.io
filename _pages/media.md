@@ -1,7 +1,7 @@
 ---
 layout: indexcategory
-title: "Media"
-subtitle: "Our recent media coverage"
+title: "SciComm"
+subtitle: "Our recent popular pieces, media coverage, & public lectures"
 include_collection: media
 permalink: /media
 show_breadcrumb: true
