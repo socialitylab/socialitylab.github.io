@@ -7,7 +7,7 @@ subtitle: Our latest
 
 The HSL is committed to collaborative, ethical, inclusive research and to open science practices. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
-Here we overview current projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [Media](/media/).
+Here we overview current projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [SciComm](/media/).
 <br />
 <br />
 <br />
