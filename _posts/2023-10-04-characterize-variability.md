@@ -1,6 +1,6 @@
 ---
 title: "To understand climate change adaptation we must characterize climate variability. Here’s how."
-subtitle: Pisor, A., Touma, D., Singh, D., & Jones, J.H. (submitted)
+subtitle: Pisor, A., Touma, D., Singh, D., & Jones, J.H. (in press)
 header_type: "hero"
 header_img : "/images/variability.png"
 tags: [climate_change, review, toolkit, africa]
@@ -9,7 +9,7 @@ project_links:
     icon: "fa fa-book"
     label: Read the paper
 ---
-*OSF Preprint*
+*One Earth*
 
 <i class="fa-solid fa-database"></i><a href="https://github.com/detouma/adaptation" class="btn">Data and Code</a>
 
