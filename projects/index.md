@@ -13,7 +13,7 @@ Here we overview current projects led by members of the HSL. For more details on
 <br />
 <br />
 
-<img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="400"/>
+<img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
 # Climate change adaptation
 How humans respond to climate change is inherently a cultural process, affected by innovation, modification, retention, and transmission ([Pisor et al. 2023](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0390)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and trained others in over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)). [See this recent talk of Anne's for an overview](https://www.socialitylab.org/media/2023-10-19-foley).
