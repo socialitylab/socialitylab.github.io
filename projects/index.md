@@ -21,7 +21,7 @@ How humans respond to climate change is inherently a cultural process, affected 
 <br />
 
 ## Assembling what we know
-In recent special issues led by Anne in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how humans past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. [Anne summarizes some of the key findings here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
+In recent special issues led by PI Anne Pisor in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how humans past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. [Anne summarizes some of the key findings here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
 
 ## Characterizing climate variability
 Understanding what adaptations work under what conditions requires being clearer in what we mean by "conditions." With collaborators in the earth sciences, PI Anne Pisor is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, then modeling these predictions with empirical data. [In a forthcoming paper in _One Earth_](https://osf.io/r382h/), she and her collaborators offer a toolkit for how to compare climate time series with adaptation data to improve inference. Empirical tests are forthcoming.
@@ -46,10 +46,5 @@ The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co
 <br />
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
 
-# Cooperative relationships with non-kin
-They say it takes a village to raise a child, and they're not wrong: humans have long cooperated with unrelated friends, neighbors, and business partners to benefit themselves and their families ([Hubbard et al. 2023](https://osf.io/6wap9/)). Thinking hard about and studying relationships with non-kin is a central theme at the HSL.
-<br />
-<br />
-
-## Chosen kin and cooperative childrearing
-Humans engage in cooperative childrearing -- individuals other than parents often are important to raising children -- and in humans, even non-kin are sometimes involved. What are the benefits to chosen kin of investing in children who are not their own? How do children benefit? This is the subject of PhD student Ollie Shannon's ongoing PhD research, which focuses on cooperative childrearing among chosen family in Queer and poly communities in the Western US.
+# Cooperative relationships with non-kin and chosen kin
+They say it takes a village to raise a child, and they're not wrong: humans have long cooperated with unrelated friends, neighbors, and business partners to benefit themselves and their families ([Hubbard et al. 2023](https://osf.io/6wap9/)). Thinking hard about and studying relationships with non-kin is a central theme at the HSL. For example, PhD student Ollie Shannon is studying how chosen family impacts people's well-being in Queer communities in the Western US.
