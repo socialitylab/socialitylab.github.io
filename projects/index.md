@@ -27,21 +27,14 @@ The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co
 <br />
 <br />
 <br />
-<img src="/images/climto_logo.png" alt="ClimTo logo" width="200"/>
 
 # Climate change adaptation
 How humans respond to climate change is inherently a cultural process, affected by innovation, modification, retention, and transmission ([Pisor et al. 2023](https://osf.io/at4wr/)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and trained others in over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)).
 <br />
 <br />
 
-## ClimTo
-[ClimTo](https://climto.org) is a smartphone app that crowdsources climate responses, enabling individuals to generate candidate climate responses, try others’ responses, and share what works with other people. By emphasizing goal setting and leveraging gamification, ClimTo encourages daily use, supporting preparation for climate impacts before they happen.
-
-ClimTo is a startup founded by PI Anne Pisor in collaboration with [Washington State University](https://www.wsu.edu/), industry partner [Sonoma Technology](https://www.sonomatech.com/), and nonprofit-partner [Urbanova](https://www.urbanova.org/).  
-<br />
-
 ## Characterizing climate variability
-Understanding what adaptations work under what conditions requires understanding the nitty gritty of "conditions" a bit better. With collaborators in the earth sciences, PI Anne Pisor is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, then modeling these predictions with empirical data.
+Understanding what adaptations work under what conditions requires understanding the nitty gritty of "conditions" a bit better. With collaborators in the earth sciences, PI Anne Pisor is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, [then modeling these predictions with empirical data](https://osf.io/r382h/).
 
 <br />
 <br />
