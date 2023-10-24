@@ -11,7 +11,6 @@ Here we overview current projects led by members of the HSL. For more details on
 
 <br />
 <br />
-<br />
 
 <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
