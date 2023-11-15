@@ -1,11 +1,11 @@
 ---
 title: In need-based sharing, sharing is more important than need
-subtitle: Lightner, A.L., Pisor, A.C., & Hagen, E.H. (in press)
+subtitle: Lightner, A.L., Pisor, A.C., & Hagen, E.H. (2023)
 header_type: "hero"
 header_img : "/images/tz-need-based.jpg"
 tags: [cooperation,tanzania,risk,modeling,fieldwork,fitness-interdependence]
 project_links:
-  - url: https://psyarxiv.com/cm3ap/
+  - url: https://www.sciencedirect.com/science/article/pii/S1090513823000235
     icon: "fa fa-book"
     label: Read the paper
 ---
