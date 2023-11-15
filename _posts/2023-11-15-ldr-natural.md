@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/polycentric.png"
 tags: [long-distance-relationships, natural-resource-management, fisheries, tanzania, fieldwork, cooperation]
 project_links:
-  - url: https://osf.io/8wbsx/
+  - url: https://doi.org/10.1098/rstb.2022.0269
     icon: "fa fa-book"
     label: Read the paper
 ---
