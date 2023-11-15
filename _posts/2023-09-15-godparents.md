@@ -1,6 +1,6 @@
 ---
 title: "Non-kin alloparents and child outcomes: Older siblings, but not godparents, predict educational attainment in a rural context"
-subtitle: Hubbard, E.B., Shannon, O., & Pisor, A.C. (in press)
+subtitle: Hubbard, E.B., Shannon, O., & Pisor, A.C. (2023)
 header_type: "hero"
 header_img : "/images/godparents.jpg"
 tags: [cooperation, cooperative-childrearing, bolivia, fieldwork]
