@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/godparents.jpg"
 tags: [cooperation, cooperative-childrearing, bolivia, fieldwork]
 project_links:
-  - url: https://osf.io/6wap9/
+  - url: https://doi.org/10.1016/j.evolhumbehav.2023.09.006
     icon: "fa fa-book"
     label: Read the paper
 ---
