@@ -1,11 +1,11 @@
 ---
 title: "To understand climate change adaptation we must characterize climate variability. Here’s how."
-subtitle: Pisor, A., Touma, D., Singh, D., & Jones, J.H. (in press)
+subtitle: Pisor, A., Touma, D., Singh, D., & Jones, J.H. (2023)
 header_type: "hero"
 header_img : "/images/variability.png"
 tags: [climate_change, review, toolkit, africa]
 project_links:
-  - url: https://osf.io/r382h/
+  - url: https://www.sciencedirect.com/science/article/pii/S2590332223005080
     icon: "fa fa-book"
     label: Read the paper
 ---
