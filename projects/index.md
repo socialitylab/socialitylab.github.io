@@ -38,7 +38,9 @@ Long-distance relationships - social connections spanning space - have been a ce
 <br />
 
 ## Tanga Sociality and Fisheries Project
-The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co-directed by HSL PI Dr Anne Pisor and frequent collaborator [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), is a long-term research project studying the intersection of social relationships and natural resources along the Indian Ocean in Tanzania. Drawing on theories and methods from diverse disciplines, including evolutionary anthropology, social psychology, and development economics, our goal is to better understand the connection between people’s relationships and their use of their natural resources, and in doing so, support communities in their efforts to improve their lives and protect their environment. We work closely with local NGOs in the area, such as [Mwambao Coastal Community Network](https://mwambao.or.tz/), and community members to develop research questions that will support and benefit communities.
+The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co-directed by HSL PI Dr Anne Pisor and frequent collaborator [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), studies the connection between people’s short-distance and long-distance relationships and their use of their natural resources. We find that long-distance relationships help people get occasional but big infusions of capital, underscoring the importance of social relationships for accessing non-local resources ([Smith et al 2023](https://www.sciencedirect.com/science/article/abs/pii/S1090513822000630)). [Kris summarizes these findings in a recent blog post](https://www.hbes.com/long-distance-friends-are-good/).
+
+The TSFP emphasizes local collaboration, often putting our heads together with local NGO [Mwambao Coastal Community Network](https://mwambao.or.tz/) and communities.
 
 <br />
 <br />
