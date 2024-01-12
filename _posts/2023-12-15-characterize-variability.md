@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/variability.png"
 tags: [climate_change, review, toolkit, africa]
 project_links:
-  - url: https://www.sciencedirect.com/science/article/pii/S2590332223005080
+  - url: https://www.cell.com/one-earth/pdfExtended/S2590-3322(23)00508-0
     icon: "fa fa-book"
     label: Read the paper
 ---
