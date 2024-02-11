@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/flow.png"
 tags: [cooperation, intergroup, review]
 project_links:
-  - url: https://doi.org/10.1016/j.evolhumbehav.2023.06.005
+  - url: https://osf.io/tc7xa
     icon: "fa fa-book"
     label: Read the paper
 ---
