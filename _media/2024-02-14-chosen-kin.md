@@ -1,5 +1,5 @@
 ---
-title: "Connections beyond blood: chosen kin are integral to human social life"
+title: "Connections beyond blood - chosen kin are integral to human social life"
 subtitle: "Human Behavior & Evolution Society blog - Ollie & Anne"
 categories: [lab-authored, blog]
 tags: [cooperation, cooperative childrearing, chosen kin, fieldwork, Anne]
