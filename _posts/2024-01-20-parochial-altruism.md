@@ -1,11 +1,11 @@
 ---
-title: Parochial altruism - What it is and why it varies
+title: "Parochial altruism - What it is and why it varies"
 subtitle: Pisor, A.C., and Ross, C.T. (2024)
 header_type: "hero"
 header_img : "/images/flow.png"
 tags: [cooperation, intergroup, review]
 project_links:
-  - url: https://osf.io/tc7xa
+  - url: "https://osf.io/tc7xa"
     icon: "fa fa-book"
     label: Read the paper
 ---
