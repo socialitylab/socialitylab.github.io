@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/giving.png"
 tags: [toolkit, bolivia, cross-cultural, games]
 project_links:
-  - url: https://osf.io/w9rjp
+  - url: https://osf.io/preprints/osf/euz2a
     icon: "fa fa-book"
     label: Read the paper
 ---
