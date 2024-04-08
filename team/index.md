@@ -7,16 +7,18 @@ header_img: /images/palouse.jpg
 
 The HSL is committed to training students and postdocs for positions inside and outside of academia, drawing on wide-ranging fields in the social sciences and sciences; to the well-being and flourishing of lab members; and to promoting a collaborative research environment that advances equity, diversity, and inclusion. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
+Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) for a Fall 2025 start, in dual-degree programs - like "Anthropology & Climate Science" or "Human Dimensions of Natural Resources and the Environment" - or in Anthropology. [See here for details on the programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
+
 <!-- * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
 <!-- {:toc} -->
 
 <img src="/images/Pisor_early_career_small.png" alt="Anne Pisor" width="200"/>
 <h1 style="text-align: center;">Dr Anne Pisor; principal investigator</h1>
-Anne Pisor ("pie-sir") combines basic research and applied work to study social relationships (especially relationships that span distance and intergroup relationships); climate change adaptation, with implications for people's well-being and livelihoods; and collective action for natural resource management. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. In her non-academic life, she's the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen; see the [Fortifyd](https://www.fortifyd.org) website for more details.
+Anne Pisor ("pie-zur") combines basic research and applied work to study social relationships (especially relationships that span distance and intergroup relationships); climate change adaptation, with implications for people's well-being and livelihoods; and collective action for natural resource management. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. In her non-academic life, she's the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen; see the [Fortifyd](https://www.fortifyd.org) website for more details.
 
 Anne has backgrounds in cultural and evolutionary anthropology, social psychology, behavioral economics, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the Western US (2022-present) and is increasingly involved as a collaborator, consultant, and mentor on research projects in East Africa. She co-directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/) with postdoc [Dr Kris Smith](https://www.kristophermsmith.com/) and [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger).
 
-Anne is an associate professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/).
+Anne is currently an associate professor of anthropology at WSU, where she recently received an [early-career faculty achievement award](https://cas.wsu.edu/cas-awards-2021-anne-pisor/), and is moving to Penn State starting Fall 2024, where she will be accepting PhD students interested in climate adaptation and well-being.
 <br />
 <br />
 <br />
