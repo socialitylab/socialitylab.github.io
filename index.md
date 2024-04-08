@@ -12,4 +12,6 @@ subtitle: research on human social life for the 21st century
 <br />
 ![Wordcloud](/images/wordcloud.png)
 
-We are located at [Washington State University](https://www.anthro.wsu.edu) in Pullman, WA, on the [traditional homelands of the Nimíipuu (Nez Perce) Tribe and the Palus people](https://wsu.edu/about/land-acknowledgement/). Be sure to [follow us on Twitter](https://www.twitter.com/SocialityLab) for the latest from the HSL.
+Our lab spans two universities, [Penn State](https://anth.la.psu.edu/) and [Washington State](https://www.anthro.wsu.edu). [Follow us on Twitter](https://www.twitter.com/SocialityLab) for the latest from the HSL.
+
+HSL members acknowledge the traditional caretakers of the lands on which we live and work: Erie, Haudenosaunee (Seneca, Cayuga, Onondaga, Oneida, Mohawk, and Tuscarora), Lenape (Delaware Nation, Delaware Tribe, Stockbridge-Munsee), Shawnee (Absentee, Eastern, and Oklahoma), Susquehannock, and Wahzhazhe (Osage) Nations, Nimíipuu (Nez Perce) Tribe and Palus people.
