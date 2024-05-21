@@ -11,11 +11,11 @@ subtitle: research on human social life for the 21st century
 <h4 style="text-align: center;">The Human Sociality Lab (HSL) studies human social life to tackle big questions and pressing social issues in the 21st century.</h4>
 
 We focus especially on culture, like climate change adaptation; social networks, like how people pick connections and the information and social support that flows through them; and the evolution of the mind, like features of our cognition that regulate cooperation. 
-<br />
+
 <h4 style="text-align: center;">We do a lot of:</h4>
-<br />
 ![Wordcloud](/images/wordcloud.png)
 <br />
+
 <h4 style="text-align: center;">Our lab spans two universities, Penn State and Washington State.</h4>
 Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) for a Fall 2025 start, in Anthropology or in dual-degree programs - like "Anthropology & Climate Science" or "Human Dimensions of Natural Resources and the Environment". [See here for details on the programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
 
