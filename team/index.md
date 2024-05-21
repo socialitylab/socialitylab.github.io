@@ -7,8 +7,6 @@ header_img: /images/palouse.jpg
 
 The HSL is committed to training students and postdocs for positions inside and outside of academia, drawing on wide-ranging fields in the social sciences and sciences; to the well-being and flourishing of lab members; and to promoting a collaborative research environment that advances equity, diversity, and inclusion. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
-Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) for a Fall 2025 start, in dual-degree programs - like "Anthropology & Climate Science" or "Human Dimensions of Natural Resources and the Environment" - or in Anthropology. [See here for details on the programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
-
 <!-- * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
 <!-- {:toc} -->
 
