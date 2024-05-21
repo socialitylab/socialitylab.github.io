@@ -14,7 +14,6 @@ We focus especially on culture, like climate change adaptation; social networks,
 
 <h4 style="text-align: center;">We do a lot of:</h4>
 ![Wordcloud](/images/wordcloud.png)
-<br />
 
 <h4 style="text-align: center;">Our lab spans two universities, Penn State and Washington State.</h4>
 Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) for a Fall 2025 start, in Anthropology or in dual-degree programs - like "Anthropology & Climate Science" or "Human Dimensions of Natural Resources and the Environment". [See here for details on the programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
