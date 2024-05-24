@@ -2,7 +2,7 @@
 layout: default
 title: Human Sociality Lab
 header_type: hero
-header_img: /images/palouse.jpg
+header_img: /images/ricardo-resende.jpg
 subtitle: research on human social life for the 21st century
 ---
 <link rel="shortcut icon" type="image/png" 
