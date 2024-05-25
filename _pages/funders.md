@@ -6,5 +6,5 @@ include_collection: funders
 permalink: /funders
 show_breadcrumb: true
 header_type: hero
-header_img: /images/palouse.jpg
+header_img: /images/ricardo-resende.jpg
 ---
