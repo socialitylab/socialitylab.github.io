@@ -2,7 +2,7 @@
 layout: default
 title: CVs
 header_type: hero
-header_img: /images/palouse.jpg
+header_img: /images/ricardo-resende.jpg
 subtitle: Our curriculum vitaes
 ---
 <img src="/images/Pisor_early_career_small.png" alt="Anne Pisor" width="200"/>
