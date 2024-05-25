@@ -1,6 +1,6 @@
 ---
 header_type: "hero"
-header_img: /images/palouse.jpg
+header_img: /images/ricardo-resende.jpg
 title: Projects
 subtitle: Our latest
 ---
@@ -15,12 +15,12 @@ Here we overview current projects led by members of the HSL. For more details on
 <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
 # Climate change adaptation
-Climate impacts pose some of the biggest risks humans have faced, past and present, and we have a long history of innovating new candidate climate adaptations, modifying existing ones, and sharing what works ([Pisor et al. 2023](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0390)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and taught to others over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)). [See this recent talk of Anne's for an overview](https://www.socialitylab.org/media/2023-10-19-foley).
+Climate impacts pose some of the biggest risks humans have faced, past and present, and we have a long history of innovating new candidate climate adaptations, modifying existing ones, and sharing what works ([Pisor et al. 2023](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0390)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and taught to others over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)). [See this recent talk by Director Anne Pisor for an overview](https://www.socialitylab.org/media/2023-10-19-foley).
 <br />
 <br />
 
 ## What we know about locally led climate adaptation
-In recent special issues led by PI Anne Pisor in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how people past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. [Anne summarizes some of the key findings here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
+In recent special issues led by [HSL Director Anne Pisor](/team/) in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how people past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. [Anne summarizes some of the key findings here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
 
 [PhD student Evan Leacox](/team/) is also interested in locally led adaptation, building collaborative relationships with Northwest US communities to understand what is innovated, kept, and shared.
 
@@ -28,6 +28,8 @@ In recent special issues led by PI Anne Pisor in [_Philosophical Transactions of
 Understanding what adaptations work under what conditions requires being clearer in what we mean by "conditions." With collaborators in the earth sciences, Anne is making predictions about what features of climate variability predict the kinds of climate adaptations people use successfully, then modeling these predictions with empirical data. [In _One Earth_](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00508-0), she and her collaborators offer a toolkit for how to compare climate time series with adaptation data to improve inference. Empirical tests are forthcoming.
 
 ## What adaptations actually reduce risk
+Climate impacts the prevalence of both acute and chronic disease, especially in areas of the world like Eastern Africa where changes in average temperature and precipitation variability are particularly intense. Anne and [HSL Co-Director Kris Smith](/team/) collabore with the [Center for Research in Emerging Infectious Diseases - East and Central Africa (CREID-ECA)](https://creid-network.org/research-centers/creid-eca) to identify and scale up locally led adaptations that mitigate the relationship between climate impacts and health outcomes in Eastern Africa. [They recently received an NIH grant](/funders/) for this work, with a focus on Rift Valley Fever Disease in Kenya. Anne is also joining the CREID-ECA Clinical Research Support Team, where she will oversee social-science research, training, and protocol development for epidemic, often climate-sensitive disease.
+
 <br />
 <br />
 <br />
