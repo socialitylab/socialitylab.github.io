@@ -14,12 +14,12 @@ Here we overview current projects led by members of the HSL. For more details on
 <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
 # Climate change adaptation
-Climate impacts pose some of the biggest risks humans have faced, past and present, and we have a long history of innovating new candidate climate adaptations, modifying existing ones, and sharing what works ([Pisor et al. 2023](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0390)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and taught to others over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)). [See this recent talk by Director Anne Pisor for an overview](https://www.socialitylab.org/media/2023-10-19-foley).
+Climate impacts pose some of the biggest risks humans have faced, past and present, and we have a long history of innovating new candidate climate adaptations, modifying existing ones, and sharing what works ([Pisor et al. 2023](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0390)). Even the way we construct infrastructure is a product of innovations and modifications we've kept and taught to others over time. At the HSL, we work to understand how climate change adaptation unfolds, what works where, and how we can best support communities as they respond ([Pisor et al. 2022](https://drive.google.com/file/d/17ybZHzYKK9SyaUuObjfVC5VbWQr9GA0n/)). [See this recent talk](https://www.socialitylab.org/media/2023-10-19-foley) by Director Anne Pisor for an overview.
 <br />
 <br />
 
 ## What we know about locally led climate adaptation
-In recent special issues led by [HSL Director Anne Pisor](/team/) in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how people past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. [Anne summarizes some of the key findings here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
+In recent special issues led by [HSL Director Anne Pisor](/team/) in [_Philosophical Transactions of the Royal Society: Biological Sciences_](https://royalsocietypublishing.org/toc/rstb/2023/378/1889) and [_American Journal of Human Biology_](https://onlinelibrary.wiley.com/toc/15206300/2021/33/4), Anne, her fellow editors, and issue contributors highlight how people past and present have responded to climate change, with potential insight for future responses that can better protect well-being and livelihoods. Anne summarizes some of the key findings [here](https://royalsociety.org/blog/2023/09/climate-change-adaptation/).
 
 [PhD student Evan Leacox](/team/) is also interested in locally led adaptation, building collaborative relationships with Northwest US communities to understand what is innovated, kept, and shared.
 
@@ -46,7 +46,6 @@ The [TSFP](https://labs.wsu.edu/tsfp/), directed by Kris and co-directed by Anne
 
 The TSFP emphasizes local collaboration, often putting our heads together with local NGO [Mwambao Coastal Community Network](https://mwambao.or.tz/) and communities.
 
-<br />
 <br />
 <br />
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
