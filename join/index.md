@@ -3,7 +3,7 @@ layout: default
 title: Join the HSL!
 header_type: hero
 header_img: /images/ricardo-resende.jpg
-subtitle: a PhD emphasizing \n integrative, interdisciplinary, intersectoral anthropology
+subtitle: a PhD emphasizing<br>integrative, interdisciplinary, intersectoral anthropology
 ---
 
 The HSL is accepting PhD students interested in research on human social life with applications to 21st century issues. Students will join the fully funded PhD program at [Penn State Anthropology](https://anth.la.psu.edu/), with [options to join a dual degree program](https://anth.la.psu.edu/graduate/dual-title-degrees/) like Anthropology & Climate Change or Human Dimensions of Natural Resources & the Environment.
