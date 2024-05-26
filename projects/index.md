@@ -10,7 +10,6 @@ The HSL is committed to collaborative, ethical, inclusive research and to open s
 Here we overview current projects led by members of the HSL. For more details on our collaborative work, see [Team](/team/), [Publications](/pubs/), or [SciComm](/media/).
 
 <br />
-<br />
 
 <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
@@ -32,19 +31,18 @@ Climate impacts the prevalence of both acute and chronic disease, especially in 
 
 <br />
 <br />
-<br />
 <!--  * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
 <!--  {:toc} -->
 
 <img src="/images/tz_bmu_sign.jpg" alt="Leader with Beach Management Unit sign" width="400"/>
 
 # Long-distance relationships
-Long-distance relationships - social connections spanning space - have been a central building block of human sociality since at least the origin of _Homo sapiens_. Importantly, long-distance relationships may or may not cross group boundaries - they are not the same as intergroup relationships and may have served different functions over our evolutionary history ([Pisor & Ross 2022](https://link.springer.com/article/10.1007/s12110-022-09431-1)). However, whether talking about long-distance or intergroup relationships in humans, these relationships are flexible: humans are not always hostile towards people from other places, nor are we always friendly towards them ([Pisor & Ross 2023](https://osf.io/tc7xa/)). [In a recent blog post, PI Anne Pisor underscores why understanding the flexibility of intergroup relationships is so important - for how we characterize human sociality, for policy, and for how we do science itself](https://www.hbes.com/human-intergroup-relations-are-profoundly-flexible/).
+Long-distance relationships - social connections spanning space - have been a central building block of human sociality since at least the origin of _Homo sapiens_. Importantly, long-distance relationships may or may not cross group boundaries - they are not the same as intergroup relationships and may have served different functions over our evolutionary history ([Pisor & Ross 2022](https://link.springer.com/article/10.1007/s12110-022-09431-1)). However, whether talking about long-distance or intergroup relationships in humans, these relationships are flexible: humans are not always hostile towards people from other places, nor are we always friendly towards them ([Pisor & Ross 2023](https://osf.io/tc7xa/)). [In a recent blog post](https://www.hbes.com/human-intergroup-relations-are-profoundly-flexible/), Anne underscores why understanding the flexibility of intergroup relationships is so important - for how we characterize human sociality, for policy, and for how we do science itself].
 <br />
 <br />
 
 ## Tanga Sociality and Fisheries Project
-The [TSFP](https://labs.wsu.edu/tsfp/), directed by postdoc Dr Kris Smith and co-directed by HSL PI Dr Anne Pisor and frequent collaborator [Dr Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), studies the connection between people’s short-distance and long-distance relationships and their use of their natural resources. We find that long-distance relationships help people get occasional but big infusions of capital, underscoring the importance of social relationships for accessing non-local resources ([Smith et al 2023](https://www.sciencedirect.com/science/article/abs/pii/S1090513822000630)). [Kris summarizes these findings in a recent blog post](https://www.hbes.com/long-distance-friends-are-good/).
+The [TSFP](https://labs.wsu.edu/tsfp/), directed by Kris and co-directed by Anne and frequent collaborator [Monique Borgerhoff Mulder](https://anthropology.ucdavis.edu/people/fzborger), studies the connection between people’s short-distance and long-distance relationships and their use of their natural resources. We find that long-distance relationships help people get occasional but big infusions of capital, underscoring the importance of social relationships for accessing non-local resources ([Smith et al 2023](https://www.sciencedirect.com/science/article/abs/pii/S1090513822000630)). Kris summarizes these findings [in a recent blog post](https://www.hbes.com/long-distance-friends-are-good/).
 
 The TSFP emphasizes local collaboration, often putting our heads together with local NGO [Mwambao Coastal Community Network](https://mwambao.or.tz/) and communities.
 
@@ -54,4 +52,4 @@ The TSFP emphasizes local collaboration, often putting our heads together with l
 <img src="/images/godmother_godson.jpg" alt="Godson Hugo and godmother Anne" width="200"/>
 
 # Cooperative relationships with non-kin and chosen kin
-They say it takes a village to raise a child, and they're not wrong: humans have long cooperated with unrelated friends, neighbors, and business partners to benefit themselves and their families ([Hubbard et al. 2023](https://osf.io/6wap9/)). Thinking hard about and studying relationships with non-kin is a central theme at the HSL. For example, PhD student Ollie Shannon is studying how chosen family impacts people's well-being in Queer communities in the Western US.
+They say it takes a village to raise a child, and they're not wrong: humans have long cooperated with unrelated friends, neighbors, and business partners to benefit themselves and their families ([Hubbard et al. 2023](https://osf.io/6wap9/)). Thinking hard about and studying relationships with non-kin is a central theme at the HSL. For example, [PhD student Ollie Shannon](/team/) is studying how chosen family impacts people's well-being in Queer communities in the Western US.
