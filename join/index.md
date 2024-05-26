@@ -6,7 +6,7 @@ header_img: /images/ricardo-resende.jpg
 subtitle: PhD in scientific anthropology
 ---
 
-The HSL is accepting PhD students interested in research on human social life with applications to 21st century issues. Students will join the fully funded PhD program at [Penn State Anthropology](https://anth.la.psu.edu/), with [options to join a dual degree program](https://anth.la.psu.edu/graduate/dual-title-degrees/) like Anthropology & Climate Change or Human Dimensions of Natural Resources and the Environment.
+The HSL is accepting PhD students interested in research on human social life with applications to 21st century issues. Students will join the fully funded PhD program at [Penn State Anthropology](https://anth.la.psu.edu/), with [options to join a dual degree program](https://anth.la.psu.edu/graduate/dual-title-degrees/) like Anthropology & Climate Change or Human Dimensions of Natural Resources & the Environment.
 
 The HSL is committed to collaborative, ethical, inclusive research and to open science practices. For more about our commitments and priorities, see [our lab manual](https://docs.google.com/document/d/1gsos2uzViR5ekILkxQvUvaB0fb_3TSRP4-_oD94xA8E/).
 
