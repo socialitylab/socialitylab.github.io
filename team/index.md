@@ -18,9 +18,9 @@ Anne Pisor ("pie-zur") is a social, behavioral, and ecological scientist doing i
 
 In her academic life, Anne is transitioning into a new role in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University, where she will be accepting PhD students interested in climate adaptation and well-being. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. 
 
-In her non-academic life, Anne is the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen; see the [Fortifyd](https://www.fortifyd.org) website for more details.
+In her non-academic life, Anne is the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen. See the [Fortifyd](https://www.fortifyd.org) website for more details.
 
-Anne has backgrounds in cultural and evolutionary anthropology, social psychology, behavioral economics, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the US (2022-present) and is increasingly involved as a collaborator, consultant, and mentor on research projects in East Africa.
+Anne has backgrounds in cultural and evolutionary anthropology, social psychology, behavioral economics, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the US (2022-present) and is increasingly involved as a collaborator, consultant, and mentor on research projects in Eastern Africa.
 <br />
 <br />
 <br />
