@@ -16,7 +16,7 @@ We focus especially on culture, like climate change adaptation; social networks,
 ![Wordcloud](/images/wordcloud.png)
 
 <h4 style="text-align: center;">Our lab spans two universities, Penn State and Washington State.</h4>
-Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) in Anthropology, with the option to join a dual-degree program like Anthropology & Climate Science or Human Dimensions of Natural Resources & the Environment. [See here for details on the Penn State programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
+Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) in Anthropology, with the option to join a dual-degree program like Demography or Transdisciplinary Research on Environment and Society (TREES). [See here for details on the Penn State programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
 
 [Follow us on X](https://www.twitter.com/SocialityLab) for the latest from the HSL.
 
