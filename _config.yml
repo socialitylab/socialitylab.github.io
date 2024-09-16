@@ -118,6 +118,8 @@ navbar:
     url: /media
   - title: Funders
     url: /funders
+  - title: Commitments
+    url: /commitments
 
 #Social links to be placed on your site footer
 footer:
