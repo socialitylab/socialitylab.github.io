@@ -12,15 +12,15 @@ The HSL is committed to training students and postdocs for positions inside and 
 
 <h1 style="text-align: center;">Penn State</h1>
 
-<img src="/images/Pisor_early_career_small.png" alt="Anne Pisor" width="200"/>
+<img src="/images/Pisor_headshot.png" alt="Anne Pisor" width="200"/>
 <h3 style="text-align: center;">Dr Anne Pisor; HSL director</h3>
 Anne Pisor ("pie-zur") is a social, behavioral, and ecological scientist doing interdisciplinary and intersectoral research to address 21st century problems. She focuses especially on the relationship between climate change, climate adaptation, and well-being, and on cooperation and natural resource management. Her basic-science-meets-applications work emerged from her ongoing research on the evolution of social relationships in humans, especially relationships spanning distance and intergroup relationships. Anne was recently named a Rising Star by [the Human Behavior and Evolution Society](https://www.hbes.com) as an early-career researcher "whose innovative work has already advanced the field." 
 
-In her academic life, Anne is transitioning into a new role in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University, where she will be accepting PhD students interested in climate adaptation and well-being. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. 
+In her academic life, Anne is in a new role in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University, where she is accepting PhD students interested in climate adaptation and health. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. 
 
 In her non-academic life, Anne is the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen. See the [Fortifyd](https://www.fortifyd.org) website for more details.
 
-Anne has backgrounds in cultural and evolutionary anthropology, social psychology, behavioral economics, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the US (2022-present) and is increasingly involved as a collaborator, consultant, and mentor on research projects in Eastern Africa.
+Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, demography, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the US (2022-present) and is currently focused on leading, consulting on, and mentoring on projects in East Africa, including Kenya and Tanzania.
 <br />
 <br />
 <br />
