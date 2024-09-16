@@ -12,7 +12,7 @@ The HSL is committed to training students and postdocs for positions inside and 
 
 <h1 style="text-align: center;">Penn State</h1>
 
-<img src="/images/pisor_headshot.png" alt="Anne Pisor" width="200"/>
+<img src="/images/pisor_headshot.jpg" alt="Anne Pisor" width="200"/>
 <h3 style="text-align: center;">Dr Anne Pisor; HSL director</h3>
 
 Anne Pisor ("pie-zur") is a social, behavioral, and ecological scientist doing interdisciplinary and intersectoral research to address 21st century problems. She focuses especially on the relationship between climate change, climate adaptation, and well-being, and on cooperation and natural resource management. Her basic-science-meets-applications work emerged from her ongoing research on the evolution of social relationships in humans, especially relationships spanning distance and intergroup relationships. Anne was recently named a Rising Star by [the Human Behavior and Evolution Society](https://www.hbes.com/awards/#toggle-id-1) as an early-career researcher "whose innovative work has already advanced the field." 
