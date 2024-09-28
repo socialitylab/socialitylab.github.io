@@ -17,11 +17,9 @@ The HSL is committed to training students and postdocs for positions inside and 
 
 Anne Pisor ("pie-zur") is a social, behavioral, and ecological scientist doing interdisciplinary and intersectoral research to address 21st century problems. She focuses especially on the relationship between climate change, climate adaptation, and well-being, and on cooperation and natural resource management. Her basic-science-meets-applications work emerged from her ongoing research on the evolution of social relationships in humans, especially relationships spanning distance and intergroup relationships. Anne was recently named a Rising Star by [the Human Behavior and Evolution Society](https://www.hbes.com/awards/#toggle-id-1) as an early-career researcher "whose innovative work has already advanced the field." 
 
-In her academic life, Anne is in a new role in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University, where she is accepting PhD students interested in climate adaptation and health. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach. 
+Anne is an Assistant Professor in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University, where she is accepting PhD students interested in climate adaptation and health. You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach.
 
-In her non-academic life, Anne is the co-founder, CEO, and Chief Scientific Officer of startup [Fortifyd](https://www.fortifyd.org), focused on helping people prepare for natural disasters before they happen. See the [Fortifyd](https://www.fortifyd.org) website for more details.
-
-Anne has backgrounds in evolutionary and cultural anthropology, social psychology, behavioral economics, demography, human biology, and applied statistcs. She's conducted field research in the Bolivian Amazon (2010-2018) and in the US (2022-present) and is currently focused on leading, consulting on, and mentoring on projects in East Africa, including Kenya and Tanzania.
+Outside of academia, Anne is an entrepreneur and mentor with experience founding lean startups and managing academic spinoffs. The mission of her former climate tech startup, Fortifyd Inc., was to help households prepare for climate impacts before they happen. As a mentor, Anne encourages entrepreneurs to leverage social science and consider human factors in early-stage startups.
 <br />
 <br />
 <br />
