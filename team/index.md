@@ -35,24 +35,9 @@ Anne has backgrounds in evolutionary and cultural anthropology, social psycholog
 <br />
 <br />
 
-
-<img src="/images/eleonora_zanetti.jpeg" alt="Eleonora Zanetti" width="200"/>
-<h3 style="text-align: center;">Eleonora Zanetti; PhD student</h3>
-Eleonora is interested in studying climate change adaptations from a multidisciplinary perspective that overlaps cultural evolution, cultural anthropology and environmental psychology. Using ethnographic and quantitative methods, her focus is on the influence of social context on how candidate climate change adaptations spread through social learning, including who learns from whom, when, what and under which conditions learning leads to behavioural changes at the population level. She has a research background in digital anthropology (online information spread), ethnography (amongst Italian paganic communities) and non-human primate social learning. She's passionate about and has collaborated in research projects empowering first-generation students' experiences.
-<br />
-<br />
-<br />
-
 <img src="/images/evan_leacox.jpg" alt="Evan Leacox" width="200"/>
 <h3 style="text-align: center;">Evan Leacox; PhD student</h3>
 Evan's interests lie in researching cultural adaptations to climate change - especially behavioral adaptations; their transmission within social networks; and their diffusion across disparate communities through a combination of cultural and evolutionary anthropology and collaborative, transdisciplinary research methods. Evan is particularly interested in how such behaviors and networks are influenced – informed or interrupted - by top-down approaches of donor-driven development interests and how, conversely, locally/culturally lead approaches to climate change related resiliency might better inform the process of developing and implementing global solutions. Evan is a trainee in [WSU's Rivers, Watersheds, and Communities program](https://nrt-rwc.wsu.edu/), where he has an NSF-funded graduate research fellowship.
-<br />
-<br />
-<br />
-
-<img src="/images/hope_jared.jpg" alt="Hope Jared" width="200"/>
-<h3 style="text-align: center;">Hope Jared; research assistant</h3>
-Hope is interested in the intersection of health care and anthropology, especially applied evolutionary anthropology. She graduated from WSU with a BA in Human Biology in 2023. Hope collaborates with Anne on research related to climate change adaptation and works full time as a research assistant at Principle Research Solutions.
 <br />
 <br />
 <br />
