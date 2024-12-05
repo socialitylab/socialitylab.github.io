@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/maps.jpg"
 tags: [cooperation, tanzania, fieldwork, fitness-interdependence, long-distance-relationships, natural-resource-management, fisheries]
 project_links:
-  - url: https://osf.io/wpc8k/
+  - url: http://doi.org/10.1111/conl.13073
     icon: "fa fa-book"
     label: Read the paper
 ---
