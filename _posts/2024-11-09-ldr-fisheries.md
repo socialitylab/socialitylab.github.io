@@ -1,6 +1,6 @@
 ---
 title: "Long-distance friends and collective action in fisheries management"
-subtitle: Smith, K.M., Pisor, A.C., et al. (in press)
+subtitle: Smith, K.M., Pisor, A.C., et al. (2024)
 header_type: "hero"
 header_img : "/images/maps.jpg"
 tags: [cooperation, tanzania, fieldwork, fitness-interdependence, long-distance-relationships, natural-resource-management, fisheries]
