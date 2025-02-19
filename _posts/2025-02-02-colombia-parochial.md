@@ -9,8 +9,8 @@ project_links:
     icon: "fa fa-book"
     label: Read the paper
 ---
-*Evolution & Human Behavior*
+*Evolutionary Human Sciences*
 
 <i class="fa-solid fa-database"></i><a href="https://github.com/ctross/parochialism_and_inequality" class="btn">Data and Code</a>
 
-Group identity isn't all there is when it comes to friendship, sharing, and generosity. In this paper, Cody and Anne discuss what social networks and economic experiments tell us about intergroup relationships in Colombia. While we learn that group identity matters, so do heuristics about what that identity means when it comes to cooperativeness and need -- when out-group members are perceived to be in need of support vs not, and when out-group members are perceived to be cooperative vs not.
+Group identity isn't all there is when it comes to friendship, sharing, and generosity. In this paper, Cody and Anne discuss what social networks and economic experiments tell us about intergroup relationships in Colombia. While we learn that group identity matters, so do heuristics about what that identity means when it comes to cooperativeness and need -- when out-group members are perceived to be in need of support vs not, and when out-group members are perceived to be cooperative vs not. See press coverage of this piece [on our Scicomm tab](https://www.socialitylab.org/media).
