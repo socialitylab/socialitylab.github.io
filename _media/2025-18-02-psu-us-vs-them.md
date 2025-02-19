@@ -1,5 +1,5 @@
 ---
-title: "Q&A: Is it always ‘us vs them’? Researcher explains why flexibility is key"
+title: "Q&A: Is it always us vs them? Researcher explains why flexibility is key"
 subtitle: "Penn State News - Anne"
 categories: [coverage, newsletter]
 tags: [intergroup relations, cooperation, fieldwork, Anne]
