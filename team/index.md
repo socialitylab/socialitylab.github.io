@@ -19,7 +19,7 @@ Anne Pisor ("pie-zur") is an integrative scientific anthropologist who studies h
 
 Evolutionary social scientists know Anne as equal parts human behavioral ecologist, cultural evolutionist, and evolutionary psychologist; anthropologists know her as equal parts cultural and evolutionary anthropologist; and social scientists know her as equal parts anthropologist, demographer, ecologist, and statistician.
 
-Anne is an Assistant Professor in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University. Anne was recently named a Rising Star by [the Human Behavior and Evolution Society](https://www.hbes.com/awards/#toggle-id-1) as an early-career researcher "whose innovative work has already advanced the field." You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach.
+Anne is an Assistant Professor in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University. She was recently named a Rising Star by [the Human Behavior and Evolution Society](https://www.hbes.com/awards/#toggle-id-1) as an early-career researcher "whose innovative work has already advanced the field." You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach.
 
 When not at the university, you can find Anne mentoring entrepreneurs and change-makers, helping them narrow down who they're serving, what's hard for those they serve, and what actions they can take to make things better. See [Anne's LinkedIn profile](https://www.linkedin.com/in/annepisor/) for more on her cross-sector work.
 <br />
