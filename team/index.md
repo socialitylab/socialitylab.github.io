@@ -61,7 +61,7 @@ Evan Leacox is interested in how adaptive governance emerges from environmental 
 <br />
 <br />
 
-<img src="/images/ollie_shannon.jpg" alt="Ollie Shannon" width="200"/>
+<img src="/images/ollie_shannon.jpeg" alt="Ollie Shannon" width="200"/>
 <h3 style="text-align: center;">Ollie Shannon; PhD student; Washington State</h3>
 
 Ollie Shannon is a biocultural anthropologist and PhD candidate specializing in queer communities, chosen family networks, and social support systems. Their research explores how queer individuals create and sustain relationships that provide emotional, financial, and caregiving support and how resources flow across these chosen family networks. Ollie’s teaching philosophy is rooted in inclusive pedagogy, equity-based learning, and classroom innovation. They strive to create student-centered learning environments that recognize the diverse experiences and perspectives each student brings. With over two decades of experience as a community organizer, Ollie has advocated for LGBTQ+ rights, mutual aid, and social justice. This background informs their research and teaching, bridging scholarship and activism to support marginalized communities. Ollie was recently awarded the Graduate Teaching Award by the College of Arts & Sciences at Washington State University.
