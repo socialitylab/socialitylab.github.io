@@ -36,9 +36,14 @@ When not at the university, you can find Anne mentoring entrepreneurs and change
 
 <h1 style="text-align: center;">Core members</h1>
 
+<img src="/images/courtney_elmore.jpg" alt="Courtney Elmore" width="200"/>
 <h3 style="text-align: center;">Courtney Elmore; MA student; Penn State</h3>
 
-Courtney is a passionate and driven Master's student in Anthropology who wants to focus on human relationships and social dynamics. A military veteran with extensive experience in diverse and challenging environments, Courtney brings a unique perspective to the study of human interactions and cultural connections. Motivated by a desire to understand how relationships are shaped by societal contexts, Courtney is particularly interested in the intersection of cooperation, identity, and community. Through her studies, Courtney seeks to bridge the gap between academic research and real-world applications, contributing to a deeper understanding of human relationships in complex and evolving environments.
+Courtney Elmore is a passionate life-long learner and former Geospatial Intelligence Analyst for the Air Force. Her time in the military taught her not only to navigate complex data but also the importance of strategic decision-making in high-stakes environments. After the service, she transitioned into entrepreneurship, where she ran her own business, gaining hands-on experience in leadership, problem-solving, and building relationships within the community.
+
+Currently, Courtney is pursuing her Master's degree at Penn State University via the Integrated Undergraduate-Graduate program and seeks to delve deep into the world of social networks and social capital. She is especially interested in understanding how these systems influence well-being, and how they can be leveraged to foster stronger, more connected communities. Her academic journey is driven by a desire to explore how human connections and the way we interact in social spaces shape our lives, both personally and collectively.
+
+Courtney is excited to combine her past experiences with new insights from her studies to contribute meaningfully to the evolving field of anthropology and to continue learning about the ways in which social networks can be harnessed for positive change.
 <br />
 <br />
 <br />
@@ -46,7 +51,7 @@ Courtney is a passionate and driven Master's student in Anthropology who wants t
 <img src="/images/evan_leacox.jpg" alt="Evan Leacox" width="200"/>
 <h3 style="text-align: center;">Evan Leacox; PhD student; Washington State</h3>
 
-Evan’s interested in how adaptive governance emerges from environmental uncertainty, especially (1) what supports and limits diverse social collaboration, and (2) when and why people are patient with the - often slow - process of cultural and institutional change and transformation. He focuses primarily on how people are approaching equitable, community-led Social-Ecological System stewardship networks in the Columbia River Basin. Evan prioritizes a collaborative, community-engaged research approach to support theory development and cultural research that is guided by, and seeks to contribute to applied, community-identified interests. Evan is a trainee in [WSU’s Rivers, Watersheds, and Communities program](https://nrt-rwc.wsu.edu/), where he has an NSF-funded graduate research fellowship.
+Evan’s interested in how adaptive governance emerges from environmental uncertainty, especially (1) what supports and limits diverse social collaboration, and (2) when and why people are patient with the - often slow - process of cultural and institutional change and transformation. He focuses primarily on how people are approaching equitable, community-led Social-Ecological System stewardship networks in the Columbia River Basin. Evan prioritizes a collaborative, community-engaged research approach to support theory development and cultural research that is guided by, and seeks to contribute to applied, community-identified interests. Evan is a trainee in [WSU’s Rivers, Watersheds, and Communities program](https://nrt-rwc.wsu.edu/), where he has an NSF-funded graduate research fellowship. Before joining WSU, Evan worked in the nonprofit sector, focusing on sustainable agriculture and community engagement.
 <br />
 <br />
 <br />
