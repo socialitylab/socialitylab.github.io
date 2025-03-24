@@ -29,7 +29,7 @@ subtitle: Our curriculum vitaes
 <br />
 <br />
 <br />
-<img src="/images/courtney_elmore.jpeg" alt="Courtney Elmore" width="200"/>
+<img src="/images/courtney_elmore.jpg" alt="Courtney Elmore" width="200"/>
 <h3 style="text-align: center;">
     <a href="https://docs.google.com/document/d/1WJDvHYAn8nrTqtCrml1hWLaRIsZq6OYGEkGX4gI2nTM/">Courtney's CV
     </a>
