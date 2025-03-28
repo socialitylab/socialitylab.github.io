@@ -26,6 +26,13 @@ subtitle: Our curriculum vitaes
 </h3>
 <br />
 <br />
+<img src="/images/evan_leacox.jpg" alt="Evan Leacox" width="200"/>
+<h3 style="text-align: center;">
+    <a href="https://docs.google.com/document/d/1q046f6WWXVHCp92uizsLrf02dMdb6GIF/">Evan's CV
+    </a>
+</h3>
+<br />
+<br />
 <img src="/images/courtney_elmore.jpg" alt="Courtney Elmore" width="200"/>
 <h3 style="text-align: center;">
     <a href="https://docs.google.com/document/d/1WJDvHYAn8nrTqtCrml1hWLaRIsZq6OYGEkGX4gI2nTM/">Courtney's CV
