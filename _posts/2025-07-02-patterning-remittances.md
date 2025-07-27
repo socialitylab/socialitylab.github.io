@@ -2,7 +2,7 @@
 title: "Household climate adaptations reflect patterning in climate events"
 subtitle: Pisor, A.C., Touma, D., Jared, J.H., & Jones, J.H. (submitted)
 header_type: "hero"
-header_img : "/images/graphical-abstract-plot.png"
+header_img : "/images/graphical_abstract_plot.png"
 tags: [climate-change,climate-adaptation,remittances,migration,secondary-data,subsaharan-africa]
 project_links:
   - url: https://eartharxiv.org/repository/view/9747/
