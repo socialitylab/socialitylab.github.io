@@ -9,7 +9,7 @@ project_links:
     icon: "fa fa-book"
     label: Read the paper
 ---
-*Evolutionary Human Sciences*
+*Earth ArXiv preprint*
 
 <i class="fa-solid fa-database"></i><a href="https://github.com/annethro/remittances/" class="btn">Data and Code</a>
 
