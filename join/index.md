@@ -18,8 +18,9 @@ The HSL is committed to collaborative, ethical, inclusive research and to open s
 * Mixed-method data collection (that is, both quantitative and qualitative methods) analyzed with cutting-edge statistics
 
 ### We especially encourage applications from those interested in:
-* Pressing issues of the 21st century, including (but not limited to) climate change, natural resource management, and well-being
-* Diversifying evolutionary approaches to studying human behavior and social life
+* Research in evolutionary social science and applied evolutionary anthropology
+* Climate change adaptation and its effects on health and livelihoods
+* Studying understudied social relationships, including long-distance relationships (in the social and behavioral sciences) and nonkin relationships (in evolutionary social science)
 * Cooperation, including (but not limited to) collective action, common-pool resource problems, and social safety nets
 
 ### International and/or undocumented students are welcome to apply
