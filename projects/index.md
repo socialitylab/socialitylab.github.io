@@ -8,9 +8,9 @@ The Human Sociality Lab studies how people use social relationships to navigate 
 
 Our focus areas include:
 <div style="display: flex; align-items: center;">
-  <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 100px; height: auto; margin-right: 10px;">
+  <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
-    <h4 style="text-align: left;">Understudied social relationships</h4>
+    <h5 style="text-align: left;">Understudied social relationships</h5>
     Biological kinship, same-community relationships, and antagonistic intergroup relationships have been a throughline of research in the social, behavioral, and evolutionary sciences. In the HSL, we study nonkin relationships, chosen family relationships, and long-distance social relationships – understudied but crucial relationships for navigating environmental, social, and economic change, past and present. See our work on long-distance relationships, the flexibility of parochial altruism, and godparents for recent examples.
     </p>
 </div>
