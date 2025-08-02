@@ -2,11 +2,11 @@
 header_type: "hero"
 header_img: /images/ricardo-resende.jpg
 title: Research
-subtitle: The HSL's main research programs
+subtitle: The HSL's central research programs
 ---
 The Human Sociality Lab studies how people use social relationships to navigate the impacts of environmental, social, and economic change on their well-being, health, and livelihoods. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and the impacts of local institutions.
 
-Our focus areas include:
+ <h5 style="text-align: left;">Our research programs include:</h5>
 <div style="display: flex; align-items: center;">
   <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
