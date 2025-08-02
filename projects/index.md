@@ -17,6 +17,26 @@ The Human Sociality Lab studies how people use social relationships to navigate 
 
 <br />
 
+<div style="display: flex; align-items: center;">
+  <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
+  <p>
+    <h5 style="text-align: left; margin-bottom: 10px;">Climate change adaptation</h5>
+   Individuals and households use strategies to reduce the risks of climate impacts – to adapt to them. In the HSL, we study which adaptations are created, modified, shared, and used; the environmental predictors of which adaptations are used; and whether adaptations that reduce risks to livelihood can increase risks to health. For more, see our work on remittances, culture and climate adaptation, and climate change and health in Kenya.
+    </p>
+</div>
+
+<br />
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
+  <p>
+    <h5 style="text-align: left; margin-bottom: 10px;">Natural resource management</h5>
+   Social relationships affect people’s use of natural resources, like fisheries and forests. In the HSL, we ask how long-distance relationships can promote and undercut natural resource management – including whether individuals do their part to preserve fisheries, whether communities work together in management, and whether ideas move from one community to another.
+    </p>
+</div>
+
+<br />
+
 <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" width="600"/>
 
 # Climate change adaptation
