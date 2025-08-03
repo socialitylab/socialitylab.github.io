@@ -7,7 +7,7 @@ subtitle: The HSL's central research programs
 The Human Sociality Lab studies how people use social relationships to navigate the impacts of environmental, social, and economic change on their well-being, health, and livelihoods. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and the impacts of local institutions.
 
  <h5 style="text-align: left;">Our research programs include:</h5>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
     <h5 style="text-align: left; margin-bottom: 10px;">Understudied social relationships</h5>
@@ -17,7 +17,7 @@ The Human Sociality Lab studies how people use social relationships to navigate 
 
 <br />
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
     <h5 style="text-align: left; margin-bottom: 10px;">Climate change adaptation</h5>
@@ -27,7 +27,7 @@ The Human Sociality Lab studies how people use social relationships to navigate 
 
 <br />
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="/images/variability.png" alt="Dispersion (a measure of temporal autocorrelation) in precipitation in Burkina Faso with district-level remittance data overlaid" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
     <h5 style="text-align: left; margin-bottom: 10px;">Natural resource management</h5>
