@@ -98,7 +98,7 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  /images/logo_2023_thumbnail.png # An small image, try 30x30px
   nav:
-  - title   : Projects # Label
+  - title   : Research # Label
     url     : /projects/ # url	
   - title   : Team
     child:
