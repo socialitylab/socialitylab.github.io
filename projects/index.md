@@ -31,6 +31,6 @@ The Human Sociality Lab studies how people use social relationships to navigate 
   <img src="/images/seaweed.jpg" alt="Women harvesting seaweed; photo by Kris Smith; Tanga, Tanzania, 2022" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
     <h5 style="text-align: left;">Natural resource management</h5>
-   Social relationships affect people’s use of natural resources, like fisheries and forests. In the HSL, we ask how long-distance relationships can promote and undercut natural resource management – including whether individuals do their part to preserve fisheries, whether communities work together in management, and whether ideas move from one community to another.
+   Social relationships affect people’s use of natural resources, like fisheries and forests. In the HSL, we ask how long-distance relationships can promote and undercut natural resource management – including whether individuals do their part to preserve fisheries, whether communities work together in management, and whether ideas move from one community to another. For more, see our work with coastal communities in Tanzania.
     </p>
 </div>
