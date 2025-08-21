@@ -4,9 +4,6 @@ subtitle: Current HSL members
 header_type: "hero"
 header_img: /images/ricardo-resende.jpg
 ---
-
-The HSL is committed to training students and postdocs for positions inside and outside of academia, drawing on wide-ranging fields in the social sciences and sciences; to the well-being and flourishing of lab members; and to promoting a collaborative research environment that advances equity, diversity, and inclusion. See [our lab commitments](/commitments) for more.
-
 <!-- * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
 <!-- {:toc} -->
 
