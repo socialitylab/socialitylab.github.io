@@ -3,7 +3,7 @@ layout: default
 title: Alumni
 header_type: hero
 header_img: /images/ricardo-resende.jpg
-subtitle: Past members of the HSL
+subtitle: Past members and affiliates of the HSL
 ---
 
 # Eric Hubbard, MA
