@@ -11,10 +11,7 @@ header_img: /images/ricardo-resende.jpg
   h1 {
     text-align: center;
   }
-</style>
-
-<style>
-  h2 {
+   h2 {
     text-align: center;
   }
 </style>
