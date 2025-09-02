@@ -20,10 +20,10 @@ header_img: /images/ricardo-resende.jpg
 </style>
 
 <!-- <h1 style="text-align: center;">Directors</h1> -->
-#Directors
+# Directors
 <img src="/images/pisor_headshot.jpg" alt="Anne Pisor" width="200"/>
 <!-- <h3 style="text-align: center;">Dr Anne Pisor; HSL director; Penn State</h3> -->
- ##Dr Anne Pisor; Penn State
+ ## Dr Anne Pisor; Penn State
 Anne Pisor ("pie-zur") is an integrative scientific anthropologist who studies how people manage risk. She's an expert on the evolution of cooperation in humans, especially social relationships that span communities ("long-distance relationships") -- often key to risk management. This work inspired her federally funded projects on climate change adaptation (NIH) and natural resource management (NSF), interdisciplinary efforts that involve collaborations in public health, epidemiology, development, climate science, public policy, and more.
 
 Evolutionary social scientists know Anne as a human behavioral ecologist, cultural evolutionist, and evolutionary psychologist; anthropologists know her as a cultural and evolutionary anthropologist; social scientists know her as an anthropologist, demographer, ecologist, and statistician; and those in health science and business know her as an expert in behavior and culture.
@@ -37,7 +37,7 @@ When not at the university, you can find Anne mentoring entrepreneurs and change
 
 <img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
 <!-- <h3 style="text-align: center;">Dr Kris Smith; HSL director; Washington State</h3> -->
-##Dr Kristopher Smith; Washington State
+## Dr Kristopher Smith; Washington State
 [Dr. Kristopher Smith](https://www.kristophermsmith.com/) is an assistant professor in the [Department of Anthropology](https://anthro.wsu.edu/) at Washington State University. With formal cross-training in anthropology, psychology, and epidemiology, he draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. Specifically, he investigates 1) how and why people cooperate with one another, and 2) how people innovate, share, and adopt climate change adaptations.
  
 Kris directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/), a long-term field site on the coast of northern Tanzania focused on how social networks impact participation in fisheries management. And in a new project he is leading in collaboration with [CREID-ECA](https://creid-network.org/research-centers/creid-eca), he is studying how camel pastoralists in northern Kenya are adapting to climate change and its effects on conflict, famine, and infectious disease. His research has been recognized with multiple awards, including the [New Investigator Award](https://www.hbes.com/awards/) from the Human Behavior and Evolution Society and the [Postdoctoral Researcher Achievement Award](https://cas.wsu.edu/recognizing-excellence/cas-awards-and-honors/) from the College of Arts and Sciences at Washington State University.
@@ -49,10 +49,10 @@ Kris received his PhD in Psychology from the [University of Pennsylvania](https:
 <br />
 
 <!-- <h1 style="text-align: center;">Core members</h1> -->
-#Core members
+# Core members
 <img src="/images/tigist_temesgen.jpg" alt="Tigist Temesgen" width="200"/>
 <!--<h3 style="text-align: center;">Tigist Temesgen; PhD student; Washington State</h3>-->
-##Tigist Temesgen; Washington State
+## Tigist Temesgen; Washington State
 I am a PhD student in evolutionary anthropology at Washington State University, where I began my program in Fall 2024. My research interests lie at the intersection of medical anthropology and evolutionary medicine, with a particular focus on leprosy, zoonotic diseases, gender, and tobacco use behavior. My current project explores the unexpectedly high prevalence of tobacco use among women in pastoralist communities, focusing on the Hamar pastoralists of southern Ethiopia. I have an MA in Social Anthropology and a BA in History and Heritage Management from Arba Minch University. Previously, I worked as a Lecturer in the Department of Social Anthropology at Jinka University and as a Graduate Assistant in the Department of History at Arba Minch University. My research experience includes data collection for a project on gender empowerment among the Maale ethnic group in southern Ethiopia, as well as ethnographic work on the everyday lives of the leprosy community in Addis Ababa, Ethiopia. I recently affiliated with the Omo Valley Research Project as an Associate Researcher.
 <br />
 <br />
