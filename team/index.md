@@ -92,7 +92,7 @@ Looking ahead, Joon plans to extend this work by integrating research on climate
 <br />
 <br />
 
-<img src="/images/courtney_elmore.jpg" alt="Courtney Elmore" width="200"/>
+<img src="/images/courtney_elmore.png" alt="Courtney Elmore" width="200"/>
 <!-- <h3 style="text-align: center;">Courtney Elmore; MA student; Penn State</h3>-->
 ## Courtney Elmore; MA student; Penn State
 Courtney Elmore is a passionate life-long learner and former Geospatial Intelligence Analyst for the Air Force. Her time in the military taught her not only to navigate complex data but also the importance of strategic decision-making in high-stakes environments. After the service, she transitioned into entrepreneurship, where she ran her own business, gaining hands-on experience in leadership, problem-solving, and building relationships within the community.
