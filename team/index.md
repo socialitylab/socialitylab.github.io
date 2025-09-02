@@ -4,8 +4,8 @@ subtitle: Current HSL members
 header_type: "hero"
 header_img: /images/ricardo-resende.jpg
 ---
-<!-- * This line is needed, but won't appear. Replace '*' with '1' to create a numbered list. -->
-<!-- {:toc} -->
+* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
 
 <h1 style="text-align: center;">Directors</h1>
 
@@ -26,7 +26,7 @@ When not at the university, you can find Anne mentoring entrepreneurs and change
 <img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
 <h3 style="text-align: center;">Dr Kris Smith; HSL director; Washington State</h3>
 
-[Dr. Kristopher Smith](https://www.kristophermsmith.com/) is an incoming assistant professor in the [Department of Anthropology](https://anthro.wsu.edu/) at Washington State University and the co-director of the Human Sociality Lab. With formal cross-training in anthropology, psychology, and epidemiology, he draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. Specifically, he investigates 1) how and why people cooperate with one another, and 2) how people innovate, share, and adopt climate change adaptations.
+[Dr. Kristopher Smith](https://www.kristophermsmith.com/) is an assistant professor in the [Department of Anthropology](https://anthro.wsu.edu/) at Washington State University. With formal cross-training in anthropology, psychology, and epidemiology, he draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. Specifically, he investigates 1) how and why people cooperate with one another, and 2) how people innovate, share, and adopt climate change adaptations.
  
 Kris directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/), a long-term field site on the coast of northern Tanzania focused on how social networks impact participation in fisheries management. And in a new project he is leading in collaboration with [CREID-ECA](https://creid-network.org/research-centers/creid-eca), he is studying how camel pastoralists in northern Kenya are adapting to climate change and its effects on conflict, famine, and infectious disease. His research has been recognized with multiple awards, including the [New Investigator Award](https://www.hbes.com/awards/) from the Human Behavior and Evolution Society and the [Postdoctoral Researcher Achievement Award](https://cas.wsu.edu/recognizing-excellence/cas-awards-and-honors/) from the College of Arts and Sciences at Washington State University.
  
@@ -62,15 +62,3 @@ Evan Leacox is interested in how adaptive governance emerges from environmental 
 <h3 style="text-align: center;">Ollie Shannon; PhD student; Washington State</h3>
 
 Ollie Shannon is a biocultural anthropologist and PhD candidate specializing in queer communities, chosen family networks, and social support systems. Their research explores how queer individuals create and sustain relationships that provide emotional, financial, and caregiving support and how resources flow across these chosen family networks. Ollie’s teaching philosophy is rooted in inclusive pedagogy, equity-based learning, and classroom innovation. They strive to create student-centered learning environments that recognize the diverse experiences and perspectives each student brings. With over two decades of experience as a community organizer, Ollie has advocated for LGBTQ+ rights, mutual aid, and social justice. This background informs their research and teaching, bridging scholarship and activism to support marginalized communities. Ollie was recently awarded the Graduate Teaching Award by the College of Arts & Sciences at Washington State University.
-<br />
-<br />
-<br />
-
-<h1 style="text-align: center;">Affiliates</h1>
-
-<img src="/images/dithapelo_medupe.jpg" alt="Dithapelo Medupe" width="200"/>
-<h3 style="text-align: center;">Dithapelo Medupe; PhD student; Penn State</h3>
-
-Dithapelo Medupe is from Botswana and did her undergraduate studies at Stanford University on full scholarship followed by medical school in Grenada and London. Ditha worked as a medical doctor in Botswana for five years. She is a fifth year PhD student in Pennsylvania State University working with Mary Shenk, Anne Pisor and Luke Glowacki. Ditha won the HBES New Investigator Award in 2023.
-
-Ditha is interested in the effects of ecology on culture and health and the effects of culture on health. Her first project looked at how the effects of biodiversity on the spread of intensive agriculture since the Neolithic have been underestimated and biodiversity may have prohibited intensive agriculture and its associated complex stratified societies in many places. She is currently interested in the suites of characteristics that shift with market integration, from behavior to health, and the effects of market integration on causes of morbidity and mortality in areas which didn't have intensive agriculture.
