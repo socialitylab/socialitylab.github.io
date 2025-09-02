@@ -8,10 +8,10 @@ header_img: /images/ricardo-resende.jpg
 {:toc}
 
 <h1 style="text-align: center;">Directors</h1>
-
+# Directors
 <img src="/images/pisor_headshot.jpg" alt="Anne Pisor" width="200"/>
 <h3 style="text-align: center;">Dr Anne Pisor; HSL director; Penn State</h3>
-
+## Anne Pisor
 Anne Pisor ("pie-zur") is an integrative scientific anthropologist who studies how people manage risk. She's an expert on the evolution of cooperation in humans, especially social relationships that span communities ("long-distance relationships") -- often key to risk management. This work inspired her federally funded projects on climate change adaptation (NIH) and natural resource management (NSF), interdisciplinary efforts that involve collaborations in public health, epidemiology, development, climate science, public policy, and more.
 
 Evolutionary social scientists know Anne as a human behavioral ecologist, cultural evolutionist, and evolutionary psychologist; anthropologists know her as a cultural and evolutionary anthropologist; social scientists know her as an anthropologist, demographer, ecologist, and statistician; and those in health science and business know her as an expert in behavior and culture.
