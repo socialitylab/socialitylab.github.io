@@ -40,15 +40,22 @@ When not at the university, you can find Anne mentoring entrepreneurs and change
 Kris directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/), a long-term field site on the coast of northern Tanzania focused on how social networks impact participation in fisheries management. And in a new project he is leading in collaboration with [CREID-ECA](https://creid-network.org/research-centers/creid-eca), he is studying how camel pastoralists in northern Kenya are adapting to climate change and its effects on conflict, famine, and infectious disease. His research has been recognized with multiple awards, including the [New Investigator Award](https://www.hbes.com/awards/) from the Human Behavior and Evolution Society and the [Postdoctoral Researcher Achievement Award](https://cas.wsu.edu/recognizing-excellence/cas-awards-and-honors/) from the College of Arts and Sciences at Washington State University.
  
 Kris received his PhD in Psychology from the [University of Pennsylvania](https://psychology.sas.upenn.edu/) in 2019, where he also completed a postdoctoral fellowship with [MindCORE](https://mindcore.sas.upenn.edu/). He then went on to complete additional postdoctoral training in the Department of Anthropology and [Paul G. Allen School for Global Health](https://vetmed.wsu.edu/departments/paul-g-allen-school-for-global-health/) at Washinton State University.
-
 <br />
 <br />
 <br />
 
-<!-- <h1 style="text-align: center;">Core members</h1> -->
-# Core members
+# Postdoc
+<img src="/images/joon_hwang.jpg" alt="Joon Hwang" width="200"/>
+## Dr Joon Hwang; Penn State
+Joon is an economic anthropologist and human behavioral ecologist who studies how social networks shape the ways people manage risk under conditions of economic and environmental change in rural Bangladesh. His research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty.
+
+Looking ahead, Joon plans to extend this work by integrating research on climate change, health, and social networks. His future projects focus on how households and communities respond to environmental shocks, how these responses affect health and well-being, and how migration and remittance flows contribute to resilience in the face of increasing climate variability.
+<br />
+<br />
+<br />
+
+# Graduate students
 <img src="/images/tigist_temesgen.jpg" alt="Tigist Temesgen" width="200"/>
-<!--<h3 style="text-align: center;">Tigist Temesgen; PhD student; Washington State</h3>-->
 ## Tigist Temesgen; PhD student; Washington State
 I am a PhD student in evolutionary anthropology at Washington State University, where I began my program in Fall 2024. My research interests lie at the intersection of medical anthropology and evolutionary medicine, with a particular focus on leprosy, zoonotic diseases, gender, and tobacco use behavior. My current project explores the unexpectedly high prevalence of tobacco use among women in pastoralist communities, focusing on the Hamar pastoralists of southern Ethiopia. I have an MA in Social Anthropology and a BA in History and Heritage Management from Arba Minch University. Previously, I worked as a Lecturer in the Department of Social Anthropology at Jinka University and as a Graduate Assistant in the Department of History at Arba Minch University. My research experience includes data collection for a project on gender empowerment among the Maale ethnic group in southern Ethiopia, as well as ethnographic work on the everyday lives of the leprosy community in Addis Ababa, Ethiopia. I recently affiliated with the Omo Valley Research Project as an Associate Researcher.
 <br />
@@ -78,16 +85,6 @@ Ollie Shannon is a biocultural anthropologist and PhD candidate specializing in 
 <!--<h3 style="text-align: center;">Evan Leacox; PhD student; Washington State</h3>-->
 ## Evan Leacox; PhD student; Washington State
 Evan Leacox is a PhD student in Anthropology at Washington State University and studies emergent human cooperation in locally led (bottom up) complex knowledge-building and decision-making spaces – such as collective action movements under increased environmental uncertainty. Through a service oriented, community engaged approach, Evan follows emergent themes in the reemerging context of canoe culture in the Columbia River Basin. Relationality or Complex Adaptive Systems are central to his research, underscoring a need to better understand non-liner processes of social network formation (relationships) in Social Ecological Systems through participatory, qualitative work.
-<br />
-<br />
-<br />
-
-<img src="/images/joon_hwang.jpg" alt="Joon Hwang" width="200"/>
-<!--<h3 style="text-align: center;">Joon Hwang; Postdoc; Penn State</h3>-->
-## Dr Joon Hwang; Postdoc; Penn State
-Joon is an economic anthropologist and human behavioral ecologist who studies how social networks shape the ways people manage risk under conditions of economic and environmental change in rural Bangladesh. His research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty.
-
-Looking ahead, Joon plans to extend this work by integrating research on climate change, health, and social networks. His future projects focus on how households and communities respond to environmental shocks, how these responses affect health and well-being, and how migration and remittance flows contribute to resilience in the face of increasing climate variability.
 <br />
 <br />
 <br />
