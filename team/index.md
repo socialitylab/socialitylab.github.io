@@ -63,12 +63,12 @@ I am a PhD student in evolutionary anthropology at Washington State University, 
 <br />
 
 <img src="/images/venkata_soujanya.jpg" alt="Venkata Soujanya" width="200"/>
-## Venkata Soujanya; PhD student; Penn State
-Venkata Soujanya is a first-year Ph.D. student at Penn State, working with Dr. Anne Pisor. She comes with a background in public health, with an MPH from the Indian Institute of Public Health, New Delhi, India. She brings around four years of professional experience, with some of her most impactful work involving indigenous communities in India, as well as socially and economically marginalized communities, particularly women and children.
+## Soujanya Akkiraju; PhD student; Penn State
+Venkata ("Soujanya") Akkiraju is a first-year Ph.D. student at Penn State, working with Dr. Anne Pisor. She comes with a background in public health, with an MPH from the Indian Institute of Public Health, New Delhi, India. Soujanya brings around four years of professional experience, with some of her most impactful work involving indigenous communities in India, as well as socially and economically marginalized communities, particularly women and children.
 
 As a Research Associate at the Indian Institute of Public Health, Hyderabad, she collaborated with national and international organizations, including the Healthy India Alliance and the University of Adelaide, on projects aimed at understanding the cross-cutting determinants of health and well-being.
 
-Her research interests focus on mixed-method studies exploring the role of social, cultural, and behavioural determinants in shaping health within communities.
+Soujanya's research interests focus on mixed-method studies exploring the role of social, cultural, and behavioural determinants in shaping health within communities.
 <br />
 <br />
 <br />
