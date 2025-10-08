@@ -7,7 +7,7 @@ subtitle: Our curriculum vitaes
 ---
 <img src="/images/pisor_headshot.jpg" alt="Anne Pisor" width="200"/>
 <h3 style="text-align: center;">
-    <a href="https://www.dropbox.com/s/6t0x0p191n1ei6t/Pisor_CV.pdf">Anne's CV
+    <a href="https://drive.google.com/file/d/1zlBd8DYYxjY2feSVqf-nXpe20DQfw9pS/ ">Anne's CV
     </a>
 </h3>
 <br />
