@@ -81,14 +81,6 @@ Ollie Shannon is a biocultural anthropologist and PhD candidate specializing in 
 <br />
 <br />
 
-<img src="/images/evan_leacox.jpg" alt="Evan Leacox" width="200"/>
-<!--<h3 style="text-align: center;">Evan Leacox; PhD student; Washington State</h3>-->
-## Evan Leacox; PhD student; Washington State
-Evan Leacox is a PhD student in Anthropology at Washington State University and studies emergent human cooperation in locally led (bottom up) complex knowledge-building and decision-making spaces – such as collective action movements under increased environmental uncertainty. Through a service oriented, community engaged approach, Evan follows emergent themes in the reemerging context of canoe culture in the Columbia River Basin. Relationality or Complex Adaptive Systems are central to his research, underscoring a need to better understand non-liner processes of social network formation (relationships) in Social Ecological Systems through participatory, qualitative work.
-<br />
-<br />
-<br />
-
 <img src="/images/courtney_elmore.png" alt="Courtney Elmore" width="200"/>
 <!-- <h3 style="text-align: center;">Courtney Elmore; MA student; Penn State</h3>-->
 ## Courtney Elmore; MA student; Penn State
