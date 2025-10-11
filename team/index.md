@@ -47,7 +47,7 @@ Kris received his PhD in Psychology from the [University of Pennsylvania](https:
 # Postdoc
 <img src="/images/joon_hwang.jpg" alt="Joon Hwang" width="200"/>
 ## Dr Joon Hwang; Penn State
-[Dr Joon Hwang](https://drive.google.com/file/d/1VqcrOq61L1iXUsimGKkvonveOuAmiDcu/) is an economic anthropologist and human behavioral ecologist who studies how social networks shape the ways people manage risk under conditions of economic and environmental change in rural Bangladesh. His research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty.
+[Dr Joon Hwang](https://www.joon-hwang.com/) is an economic anthropologist and human behavioral ecologist who studies how social networks shape the ways people manage risk under conditions of economic and environmental change in rural Bangladesh. His research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty.
 
 Looking ahead, Joon plans to extend this work by integrating research on climate change, health, and social networks. His future projects focus on how households and communities respond to environmental shocks, how these responses affect health and well-being, and how migration and remittance flows contribute to resilience in the face of increasing climate variability.
 <br />
