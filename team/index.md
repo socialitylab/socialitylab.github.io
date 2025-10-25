@@ -62,17 +62,6 @@ I am a PhD student in evolutionary anthropology at Washington State University, 
 <br />
 <br />
 
-<img src="/images/soujanya_akkiraju.jpg" alt="Soujanya Akkiraju" width="200"/>
-## Soujanya Akkiraju; PhD student; Penn State
-Venkata ("Soujanya") Akkiraju is a first-year Ph.D. student at Penn State, working with Dr. Anne Pisor. She comes with a background in public health, with an MPH from the Indian Institute of Public Health, New Delhi, India. Soujanya brings around four years of professional experience, with some of her most impactful work involving indigenous communities in India, as well as socially and economically marginalized communities, particularly women and children.
-
-As a Research Associate at the Indian Institute of Public Health, Hyderabad, she collaborated with national and international organizations, including the Healthy India Alliance and the University of Adelaide, on projects aimed at understanding the cross-cutting determinants of health and well-being.
-
-Soujanya's research interests focus on mixed-method studies exploring the role of social, cultural, and behavioural determinants in shaping health within communities.
-<br />
-<br />
-<br />
-
 <img src="/images/ollie_shannon.jpeg" alt="Ollie Shannon" width="200"/>
 <!-- <h3 style="text-align: center;">Ollie Shannon; PhD student; Washington State</h3> -->
 ## Ollie Shannon; PhD student; Washington State
@@ -89,3 +78,14 @@ Courtney Elmore is a passionate life-long learner and former Geospatial Intellig
 Currently, Courtney is pursuing her Master's degree at Penn State University via the Integrated Undergraduate-Graduate program and seeks to delve deep into the world of social networks and social capital. She is especially interested in understanding how these systems influence well-being, and how they can be leveraged to foster stronger, more connected communities. Her academic journey is driven by a desire to explore how human connections and the way we interact in social spaces shape our lives, both personally and collectively.
 
 Courtney is excited to combine her past experiences with new insights from her studies to contribute meaningfully to the evolving field of anthropology and to continue learning about the ways in which social networks can be harnessed for positive change.
+
+<img src="/images/soujanya_akkiraju.jpg" alt="Soujanya Akkiraju" width="200"/>
+## Soujanya Akkiraju; PhD student; Penn State
+Venkata ("Soujanya") Akkiraju is a first-year Ph.D. student at Penn State, working with Dr. Anne Pisor. She comes with a background in public health, with an MPH from the Indian Institute of Public Health, New Delhi, India. Soujanya brings around four years of professional experience, with some of her most impactful work involving indigenous communities in India, as well as socially and economically marginalized communities, particularly women and children.
+
+As a Research Associate at the Indian Institute of Public Health, Hyderabad, she collaborated with national and international organizations, including the Healthy India Alliance and the University of Adelaide, on projects aimed at understanding the cross-cutting determinants of health and well-being.
+
+Soujanya's research interests focus on mixed-method studies exploring the role of social, cultural, and behavioural determinants in shaping health within communities.
+<br />
+<br />
+<br />
