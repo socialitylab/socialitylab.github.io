@@ -2,7 +2,7 @@
 title: "A transdisciplinary approach to growing an applied science of cultural evolution for a sustainable future"
 subtitle: "Brooks, J.S., Koomen, R., Søgaard-Jørgensen, P., Berl, R., Chavez Paez, W., Eirdosh, D., Hakim, M.A., Hanisch, S., Lindell, C., Liu, J., Nguyễn, M.H.T., Pisor, A., et al. (2025)"
 header_type: "hero"
-header_img : "/images/sustainability_managers.jpg"
+header_img : "/images/sustainability_managers.jpeg"
 tags: [scicomm, applied, cultural-evolution]
 project_links:
   - url: https://doi.org/10.1098/rstb.2024.0263
