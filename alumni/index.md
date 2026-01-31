@@ -9,8 +9,8 @@ subtitle: Past members and affiliates of the HSL
 # Eric Hubbard, MA
 Eric completed his MA in Evolutionary Anthropology in 2022. While at WSU, Eric studied how non-kin alloparents may benefit children. Eric is now Research Director at Nupoint Marketing.
 
-# Hope Jared, BA
-Hope graduated from WSU with a BA in Human Biology in 2023. Hope collaborated with Anne on research related to climate change adaptation. Today she works full time as a research assistant at Principle Research Solutions.
+# Johanna Hope Guin, BA
+Hope graduated from WSU with a BA in Human Biology in 2023. Hope collaborated with Anne on research related to climate change adaptation and remittances. More recently, she has been doing research at Dermatology Specialists of Spokane, working on new treatments for dermatological diseases, and she's applying to grad school to pursue her Masters in Teaching.
 
 # Dithapelo Medupe, PhD
 
