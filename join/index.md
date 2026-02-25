@@ -5,7 +5,7 @@ header_type: hero
 header_img: /images/ricardo-resende.jpg
 subtitle: a PhD emphasizing<br>integrative, interdisciplinary, scientific anthropology
 ---
-The HSL is accepting PhD students at Penn State interested in evolutionary social science or applied evolutionary anthropology with a focus on climate change adaptation, understudied social relationships, or cooperation and natural resource management. Students will join the fully funded PhD program at [Penn State Anthropology](https://anth.la.psu.edu/), with [options to join a dual degree program](https://anth.la.psu.edu/graduate/dual-title-degrees/) like Demography or Transdisciplinary Research on Environment and Society (TREES).
+Anne is not currently accepting students at Penn State. When she is -- in future years -- the HSL accepts students interested in evolutionary social science or applied evolutionary anthropology with a focus on climate change adaptation, understudied social relationships, or cooperation and natural resource management. Students will join the fully funded PhD program at [Penn State Anthropology](https://anth.la.psu.edu/), with [options to join a dual degree program](https://anth.la.psu.edu/graduate/dual-title-degrees/) like Demography or Transdisciplinary Research on Environment and Society (TREES).
 
 ### Training in the HSL emphasizes:
 * Integration of theory and methods from across the social, behavioral, and ecological sciences, with evolutionary theory as a throughline
