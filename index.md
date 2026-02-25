@@ -23,7 +23,7 @@ We investigate how people use social relationships to navigate the impacts of en
 ![Wordcloud](/images/wordcloud.png)
 
 <h4 style="text-align: center;">Our lab spans two universities, Penn State and Washington State.</h4>
-Anne is accepting PhD students at [Penn State](https://anth.la.psu.edu/) in Anthropology, with the option to join a dual-degree program like Demography or Transdisciplinary Research on Environment and Society (TREES). [See here for details on the Penn State programs and how to apply](https://anth.la.psu.edu/graduate/dual-title-degrees/).
+Anne is not currently accepting PhD students at Penn State. For details about Washington State's PhD program, please reach out to Kris for details.
 
 [Follow us on Bluesky](https://bsky.app/profile/socialitylab.bsky.social) for the latest from the HSL.
 
