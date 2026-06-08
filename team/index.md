@@ -17,7 +17,7 @@ header_img: /images/ricardo-resende.jpg
 </style>
 
 <!-- <h1 style="text-align: center;">Directors</h1> -->
-# Directors
+# Director
 <img src="/images/pisor_headshot.jpg" alt="Anne Pisor" width="200"/>
 <!-- <h3 style="text-align: center;">Dr Anne Pisor; HSL director; Penn State</h3> -->
 ## Dr Anne Pisor; Penn State
@@ -32,36 +32,7 @@ When not at the university, you can find Anne mentoring entrepreneurs and change
 <br />
 <br />
 
-<img src="/images/kris_smith.jpg" alt="Kris Smith" width="200"/>
-<!-- <h3 style="text-align: center;">Dr Kris Smith; HSL director; Washington State</h3> -->
-## Dr Kristopher Smith; Washington State
-[Dr. Kristopher Smith](https://www.kristophermsmith.com/) is an assistant professor in the [Department of Anthropology](https://anthro.wsu.edu/) at Washington State University. With formal cross-training in anthropology, psychology, and epidemiology, he draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. Specifically, he investigates 1) how and why people cooperate with one another, and 2) how people innovate, share, and adopt climate change adaptations.
- 
-Kris directs the [Tanga Sociality and Fisheries Project](https://labs.wsu.edu/tsfp/), a long-term field site on the coast of northern Tanzania focused on how social networks impact participation in fisheries management. And in a new project he is leading in collaboration with [CREID-ECA](https://creid-network.org/research-centers/creid-eca), he is studying how camel pastoralists in northern Kenya are adapting to climate change and its effects on conflict, famine, and infectious disease. His research has been recognized with multiple awards, including the [New Investigator Award](https://www.hbes.com/awards/) from the Human Behavior and Evolution Society and the [Postdoctoral Researcher Achievement Award](https://cas.wsu.edu/recognizing-excellence/cas-awards-and-honors/) from the College of Arts and Sciences at Washington State University.
- 
-Kris received his PhD in Psychology from the [University of Pennsylvania](https://psychology.sas.upenn.edu/) in 2019, where he also completed a postdoctoral fellowship with [MindCORE](https://mindcore.sas.upenn.edu/). He then went on to complete additional postdoctoral training in the Department of Anthropology and [Paul G. Allen School for Global Health](https://vetmed.wsu.edu/departments/paul-g-allen-school-for-global-health/) at Washinton State University.
-<br />
-<br />
-<br />
-
-# Postdoc affiliate
-<img src="/images/joon_hwang.jpg" alt="Joon Hwang" width="200"/>
-## Dr Joon Hwang; UC Santa Barbara
-[Dr Joon Hwang](https://www.joon-hwang.com/) is an economic anthropologist and human behavioral ecologist who studies how social networks shape the ways people manage risk under conditions of economic and environmental change in rural Bangladesh. His research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty.
-
-Looking ahead, Joon plans to extend this work by integrating research on climate change, health, and social networks. His future projects focus on how households and communities respond to environmental shocks, how these responses affect health and well-being, and how migration and remittance flows contribute to resilience in the face of increasing climate variability.
-<br />
-<br />
-<br />
-
 # Graduate students
-<img src="/images/tigist_temesgen.jpg" alt="Tigist Temesgen" width="200"/>
-## Tigist Temesgen; PhD student; Washington State
-I am a PhD student in evolutionary anthropology at Washington State University, where I began my program in Fall 2024. My research interests lie at the intersection of medical anthropology and evolutionary medicine, with a particular focus on leprosy, zoonotic diseases, gender, and tobacco use behavior. My current project explores the unexpectedly high prevalence of tobacco use among women in pastoralist communities, focusing on the Hamar pastoralists of southern Ethiopia. I have an MA in Social Anthropology and a BA in History and Heritage Management from Arba Minch University. Previously, I worked as a Lecturer in the Department of Social Anthropology at Jinka University and as a Graduate Assistant in the Department of History at Arba Minch University. My research experience includes data collection for a project on gender empowerment among the Maale ethnic group in southern Ethiopia, as well as ethnographic work on the everyday lives of the leprosy community in Addis Ababa, Ethiopia. I recently affiliated with the Omo Valley Research Project as an Associate Researcher.
-<br />
-<br />
-<br />
-
 <img src="/images/ollie_shannon.jpeg" alt="Ollie Shannon" width="200"/>
 <!-- <h3 style="text-align: center;">Ollie Shannon; PhD student; Washington State</h3> -->
 ## Ollie Shannon; PhD student; Washington State
@@ -72,7 +43,7 @@ Ollie Shannon is a biocultural anthropologist and PhD candidate specializing in 
 
 <img src="/images/courtney_elmore.png" alt="Courtney Elmore" width="200"/>
 <!-- <h3 style="text-align: center;">Courtney Elmore; MA student; Penn State</h3>-->
-## Courtney Elmore; MA student; Penn State
+## Courtney Elmore; PhD student; Penn State
 Courtney Elmore is a passionate life-long learner and former Geospatial Intelligence Analyst for the Air Force. Her time in the military taught her not only to navigate complex data but also the importance of strategic decision-making in high-stakes environments. After the service, she transitioned into entrepreneurship, where she ran her own business, gaining hands-on experience in leadership, problem-solving, and building relationships within the community.
 
 Currently, Courtney is pursuing her Master's degree at Penn State University via the Integrated Undergraduate-Graduate program and seeks to delve deep into the world of social networks and social capital. She is especially interested in understanding how these systems influence well-being, and how they can be leveraged to foster stronger, more connected communities. Her academic journey is driven by a desire to explore how human connections and the way we interact in social spaces shape our lives, both personally and collectively.
