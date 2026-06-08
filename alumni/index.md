@@ -6,23 +6,23 @@ header_img: /images/ricardo-resende.jpg
 subtitle: Past members and affiliates of the HSL
 ---
 
-# Johanna Hope Guin; affiliated with the HSL during her post-bac
-Hope graduated from WSU with a BA in Human Biology in 2023. Hope collaborated with Anne on research related to climate change adaptation and remittances. More recently, Hope has been doing research at Dermatology Specialists of Spokane, working on new treatments for dermatological diseases, and she's applying to grad school to pursue her Masters in Teaching.
+## Johanna Hope Guin
+*Affiliated with the HSL during her post-bac* Hope graduated from WSU with a BA in Human Biology in 2023. After graduating, Hope collaborated with Anne on research related to climate change adaptation and remittances. More recently, Hope has been doing research at Dermatology Specialists of Spokane, working on new treatments for dermatological diseases, and she's applying to grad school to pursue her Masters in Teaching.
 
-# Eric Hubbard; did his MA with the HSL
-Eric completed his MA in Evolutionary Anthropology in 2022. While at WSU, Eric studied how non-kin alloparents may benefit children, expanding his skillset in data wrangling and analysis. Eric is now Research Director at Nupoint Marketing.
+## Eric Hubbard
+*Did his MA with the HSL* Eric completed his MA in Evolutionary Anthropology in 2022. While at WSU, Eric studied how non-kin alloparents may benefit children, expanding his skillset in data wrangling and analysis. Eric is now Research Director at Nupoint Marketing.
 
-# Dr Joon Hwang; affiliated with the HSL during his postdoc
-Joon spent his first post-PhD year affiliated with the HSL, collaborating with Anne. Joon's research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty. He is now a postdoctoral researcher at UC Santa Barbara.
+## Dr Joon Hwang
+*Affiliated with the HSL during his postdoc* Joon spent his first post-PhD year affiliated with the HSL, collaborating with Anne. Joon's research combines multilayered network analysis, spatial analysis, and field experiment to examine how market integration and economic inequality transform reciprocity and connectivity, and how these shifts influence patterns of risk-taking in the face of environmental uncertainty. He is now a postdoctoral researcher at UC Santa Barbara.
 
-# Dr Dithapelo Medupe; affiliated with the HSL during her PhD
-Ditha graduated from Penn State with her PhD in Anthropology in 2025. She is interested in the effects of ecology on culture and health and the effects of culture on health, especially with the shift to market integration and intensive agriculture. Today Ditha is a Postdoctoral Researcher at University of Pennsylvania working on Public Health Implementation Science.
+## Dr Dithapelo Medupe
+*Affiliated with the HSL during her PhD* Ditha graduated from Penn State with her PhD in Anthropology in 2025. She is interested in the effects of ecology on culture and health and the effects of culture on health, especially with the shift to market integration and intensive agriculture. Today Ditha is a Postdoctoral Researcher at University of Pennsylvania working on Public Health Implementation Science.
 
-# Aracely Mendoza; affiliated with the HSL during her BA
-Aracely graduated from WSU and the McNair Scholars Program with a degree in Anthropology and Digital Technology & Culture in 2020. While at WSU, she studied how Latinx identities are negotiated in Washington state and Virginia. In 2019, she received the WSU Pollart Scholarship for her work. She is now an Educational Planner at Wenatchee Valley College.
+## Aracely Mendoza
+*Affiliated with the HSL during her BA* Aracely graduated from WSU and the McNair Scholars Program with a degree in Anthropology and Digital Technology & Culture in 2020. While at WSU, she studied how Latinx identities are negotiated in Washington state and Virginia. In 2019, she received the WSU Pollart Scholarship for her work. She is now an Educational Planner at Wenatchee Valley College.
 
-## Dr Kristopher Smith; former HSL Co-Director, did his postdoc with the HSL
-Kris was Co-Director of the HSL and, before that, Postdoctoral Researcher with the HSL from 2021-2026. With formal cross-training in anthropology, psychology, and epidemiology, Kris draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. He is now an Assistant Professor of Anthropology at Washington State University.
+## Dr Kristopher Smith
+*Former HSL Co-Director; did his postdoc with the HSL* Kris was a Postdoctoral Scholar with the HSL from 2021-2024 and was HSL Co-Director from 2023-2026. With formal cross-training in anthropology, psychology, and epidemiology, Kris draws upon a diverse set of theories and methods to study how communities work together to respond to environmental and cultural change. He's now an Assistant Professor of Anthropology at Washington State University.
 
-## Tigist Temesgen; affiliated with the HSL during her PhD
-Tigist is a PhD student at Washington State University in Kris Smith's and Ed Hagen's labs. Tigist's lie at the intersection of medical anthropology and evolutionary medicine, with a particular focus on leprosy, zoonotic diseases, gender, and tobacco use behavior.
+## Tigist Temesgen
+*Affiliated with the HSL during her PhD* Tigist is a PhD student at Washington State University in Kris Smith's and Ed Hagen's labs. Tigist's interests lie at the intersection of medical anthropology and evolutionary medicine, with a particular focus on leprosy, zoonotic diseases, gender, and tobacco use behavior.
