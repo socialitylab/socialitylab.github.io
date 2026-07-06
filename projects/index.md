@@ -21,7 +21,7 @@ The Human Sociality Lab studies how people use social relationships to navigate 
   <img src="/images/circle.jpg" alt="Women and researchers pose together for a photo after a focus group discussion; photo by Arthur Orieny; Laisamis, Kenya, 2024" style="width: 200px; height: auto; margin-right: 10px;">
   <p>
     <h5 style="text-align: left;">Climate change adaptation</h5>
-   Individuals and households use strategies to reduce the risks of climate impacts – to adapt to them. In the HSL, we study which adaptations are created, modified, shared, and used; the environmental predictors of which adaptations are used; and whether adaptations that reduce risks to livelihood can increase risks to health. For more, see our work on remittances, culture and climate adaptation, and climate change and health in Kenya.
+   Individuals and households use strategies to reduce the risks of climate impacts – to adapt to them. In the HSL, we study which adaptations are created, modified, shared, and used; the environmental predictors of which adaptations are used; and whether adaptations that reduce risks to livelihood can increase risks to health. For more, see our work on remittances, culture and climate adaptation globally, and on climate change and health in Kenya.
     </p>
 </div>
 
