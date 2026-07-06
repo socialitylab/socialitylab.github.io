@@ -22,9 +22,8 @@ We investigate how people use social relationships to navigate the impacts of en
 <h4 style="text-align: center;">We do a lot of:</h4>
 ![Wordcloud](/images/wordcloud.png)
 
-<h4 style="text-align: center;">Our lab spans two universities, Penn State and Washington State.</h4>
-Anne is not currently accepting PhD students at Penn State. For details about Washington State's PhD program, please reach out to Kris for details.
+<h4 style="text-align: center;">We're based at Penn State University, in the Department of Anthropology, with collaborations and cross-training spanning programs, communities, universities, and countries.</h4>
 
 [Follow us on Bluesky](https://bsky.app/profile/socialitylab.bsky.social) for the latest from the HSL.
 
-_HSL members acknowledge the traditional caretakers of the lands on which we live and work: Erie, Haudenosaunee (Seneca, Cayuga, Onondaga, Oneida, Mohawk, and Tuscarora), Lenape (Delaware Nation, Delaware Tribe, Stockbridge-Munsee), Nimíipuu (Nez Perce), Palus, Shawnee (Absentee, Eastern, and Oklahoma), Susquehannock, and Wahzhazhe (Osage) peoples._
+_HSL members acknowledge the traditional caretakers of the lands on which we live and work: Erie, Haudenosaunee (Seneca, Cayuga, Onondaga, Oneida, Mohawk, and Tuscarora), Lenape (Delaware Nation, Delaware Tribe, Stockbridge-Munsee), Shawnee (Absentee, Eastern, and Oklahoma), Susquehannock, and Wahzhazhe (Osage) peoples._
