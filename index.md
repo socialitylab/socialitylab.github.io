@@ -17,13 +17,11 @@ subtitle: research on human social life for the 21st century
 
 <h4 style="text-align: center;">The Human Sociality Lab (HSL) studies human social life to tackle big questions and pressing social issues in the 21st century.</h4>
 
-We investigate how people use social relationships to navigate the impacts of environmental, social, and economic change on their well-being, health, and livelihoods. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and the impacts of local institutions.
+We investigate how people use social relationships to navigate the impacts of environmental, social, and economic change on their livelihoods and health. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and the impacts of local institutions.
 
-<h4 style="text-align: center;">We do a lot of:</h4>
+<h4 style="text-align: center;">We're based at Penn State University, in the Department of Anthropology, with collaborations and cross-training spanning programs, communities, universities, and countries. We do a lot of:</h4>
 ![Wordcloud](/images/wordcloud.png)
 
-<h4 style="text-align: center;">We're based at Penn State University, in the Department of Anthropology, with collaborations and cross-training spanning programs, communities, universities, and countries.</h4>
-
-[Follow us on Bluesky](https://bsky.app/profile/socialitylab.bsky.social) for the latest from the HSL.
+<h4 style="text-align: center;"> Follow us [on LinkedIn](https://www.linkedin.com/company/human-sociality-lab/) or [on Bluesky](https://bsky.app/profile/socialitylab.bsky.social) for the latest from the HSL. </h4>
 
 _HSL members acknowledge the traditional caretakers of the lands on which we live and work: Erie, Haudenosaunee (Seneca, Cayuga, Onondaga, Oneida, Mohawk, and Tuscarora), Lenape (Delaware Nation, Delaware Tribe, Stockbridge-Munsee), Shawnee (Absentee, Eastern, and Oklahoma), Susquehannock, and Wahzhazhe (Osage) peoples._
