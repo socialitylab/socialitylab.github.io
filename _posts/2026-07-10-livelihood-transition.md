@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/drought-strategy-venn.jpg"
 tags: [climate-change,climate-adaptation,health,kenya,applied,fieldwork]
 project_links:
-  - url: https://doi.org/10.1016/j.joclim.2026.100707
+  - url: https://www.sciencedirect.com/science/article/pii/S2667278226000623
     icon: "fa fa-book"
     label: Read the paper
 ---
