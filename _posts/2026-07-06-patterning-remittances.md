@@ -1,11 +1,11 @@
 ---
 title: "Monetary transfers may be related to patterning in climate events, not just single extreme events"
-subtitle: Pisor, A.C., Touma, D., Jared, J.H., & Jones, J.H. (in press)
+subtitle: Pisor, A.C., Touma, D., Jared, J.H., & Jones, J.H. (2026)
 header_type: "hero"
 header_img : "/images/figure_3_R1.jpg"
 tags: [climate-change,climate-adaptation,remittances,migration,secondary-data,subsaharan-africa]
 project_links:
-  - url: https://eartharxiv.org/repository/view/9747/
+  - url: https://link.springer.com/article/10.1007/s10584-026-04249-7
     icon: "fa fa-book"
     label: Read the paper
 ---
