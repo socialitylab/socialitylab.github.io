@@ -27,7 +27,7 @@ Evolutionary social scientists know Anne as a human behavioral ecologist, cultur
 
 Anne is an Assistant Professor in the [Department of Anthropology](https://anth.la.psu.edu/) and [Social Science Research Institute](https://ssri.psu.edu/) at Penn State University. She recently received the Early Career Award from [the Human Behavior and Evolution Society](https://www.hbes.com/awards/#toggle-id-7), given to "excellent young scientists who have made distinguished theoretical and/or empirical contributions." You can [watch a talk of hers](https://www.youtube.com/watch?v=AJoGC-J_18w) for a taste of her academic approach.
 
-When not at the university, you can find Anne mentoring entrepreneurs and change-makers, helping them narrow down who they're serving, what's hard for those they serve, and what actions they can take to make things better. See [Anne's LinkedIn profile](https://www.linkedin.com/in/annepisor/) for more on her cross-sector work.
+When not doing science, you can find Anne mentoring entrepreneurs and change-makers, helping them narrow down who they're serving, what's hard for those they serve, and what actions they can take to make things better. See [Anne's LinkedIn profile](https://www.linkedin.com/in/annepisor/) for more on her cross-sector work.
 <br />
 <br />
 <br />
