@@ -3,6 +3,8 @@ title: "Relentless heat and drought take a toll on herders’ physical and menta
 subtitle: "The Conversation - Anne"
 categories: [lab-authored,online-outlet,opinion]
 tags: [climate change,health,Kenya,US,Anne]
+layout: default
+permalink: /media/2026-08-26-heat-herders
 ---
 There are shepherds on the open range in the US who may see other people only once every few weeks. It's difficult for medical professionals to serve them, much less for public health researchers to study them. As extreme heat gets more common, how could it be affecting herders' health?
 
