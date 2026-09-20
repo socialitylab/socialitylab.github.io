@@ -5,7 +5,7 @@ header_type: "hero"
 header_img : "/images/adaptation-science.png"
 tags: [climate-adaptation, review, cross-cultural, policy]
 project_links:
-  - url: https://osf.io/at4wr/
+  - url: https://royalsocietypublishing.org/rstb/article/378/1889/20220390/109319/Climate-change-adaptation-needs-a-science-of
     icon: "fa fa-book"
     label: Read the paper
 ---
