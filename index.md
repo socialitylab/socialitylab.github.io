@@ -17,7 +17,7 @@ subtitle: research on human social life for the 21st century
 
 <h4 style="text-align: center;">The Human Sociality Lab (HSL) studies human social life to tackle big questions and pressing social issues in the 21st century.</h4>
 
-We investigate how people use social relationships to navigate the impacts of environmental, social, and economic change on their livelihoods and health. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and the impacts of local institutions.
+We investigate how people use social relationships to navigate the impacts of environmental, social, and economic change on their livelihoods and health. We approach this problem from multiple perspectives, looking at individual psychology and decision-making, relationship formation and maintenance, the structure of social networks, and public health.
 
 We're based at Penn State University, in the Department of Anthropology, with collaborations and cross-training spanning programs, communities, universities, and countries. We do a lot of:
 <br />
